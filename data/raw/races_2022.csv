@@ -1,0 +1,441 @@
+season,round,driver_number,driver,driver_name,team,grid_position,finish_position,classified_position,status,points,laps_completed
+2022,1,16,LEC,Charles Leclerc,Ferrari,1.0,1.0,1,Finished,26.0,57.0
+2022,1,55,SAI,Carlos Sainz,Ferrari,3.0,2.0,2,Finished,18.0,57.0
+2022,1,44,HAM,Lewis Hamilton,Mercedes,5.0,3.0,3,Finished,15.0,57.0
+2022,1,63,RUS,George Russell,Mercedes,9.0,4.0,4,Finished,12.0,57.0
+2022,1,20,MAG,Kevin Magnussen,Haas F1 Team,7.0,5.0,5,Finished,10.0,57.0
+2022,1,77,BOT,Valtteri Bottas,Alfa Romeo,6.0,6.0,6,Finished,8.0,57.0
+2022,1,31,OCO,Esteban Ocon,Alpine,11.0,7.0,7,Finished,6.0,57.0
+2022,1,22,TSU,Yuki Tsunoda,AlphaTauri,16.0,8.0,8,Finished,4.0,57.0
+2022,1,14,ALO,Fernando Alonso,Alpine,8.0,9.0,9,Finished,2.0,57.0
+2022,1,24,ZHO,Guanyu Zhou,Alfa Romeo,15.0,10.0,10,Finished,1.0,57.0
+2022,1,47,MSC,Mick Schumacher,Haas F1 Team,12.0,11.0,11,Finished,0.0,57.0
+2022,1,18,STR,Lance Stroll,Aston Martin,19.0,12.0,12,Finished,0.0,57.0
+2022,1,23,ALB,Alexander Albon,Williams,14.0,13.0,13,Finished,0.0,57.0
+2022,1,3,RIC,Daniel Ricciardo,McLaren,18.0,14.0,14,Finished,0.0,57.0
+2022,1,4,NOR,Lando Norris,McLaren,13.0,15.0,15,Finished,0.0,57.0
+2022,1,6,LAT,Nicholas Latifi,Williams,20.0,16.0,16,Finished,0.0,57.0
+2022,1,27,HUL,Nico Hulkenberg,Aston Martin,17.0,17.0,17,Finished,0.0,57.0
+2022,1,11,PER,Sergio Perez,Red Bull Racing,4.0,18.0,18,Fuel pressure,0.0,56.0
+2022,1,1,VER,Max Verstappen,Red Bull Racing,2.0,19.0,19,Fuel pressure,0.0,54.0
+2022,1,10,GAS,Pierre Gasly,AlphaTauri,10.0,20.0,R,Power Unit,0.0,44.0
+2022,2,1,VER,Max Verstappen,Red Bull Racing,4.0,1.0,1,Finished,25.0,50.0
+2022,2,16,LEC,Charles Leclerc,Ferrari,2.0,2.0,2,Finished,19.0,50.0
+2022,2,55,SAI,Carlos Sainz,Ferrari,3.0,3.0,3,Finished,15.0,50.0
+2022,2,11,PER,Sergio Perez,Red Bull Racing,1.0,4.0,4,Finished,12.0,50.0
+2022,2,63,RUS,George Russell,Mercedes,6.0,5.0,5,Finished,10.0,50.0
+2022,2,31,OCO,Esteban Ocon,Alpine,5.0,6.0,6,Finished,8.0,50.0
+2022,2,4,NOR,Lando Norris,McLaren,11.0,7.0,7,Finished,6.0,50.0
+2022,2,10,GAS,Pierre Gasly,AlphaTauri,9.0,8.0,8,Finished,4.0,50.0
+2022,2,20,MAG,Kevin Magnussen,Haas F1 Team,10.0,9.0,9,Finished,2.0,50.0
+2022,2,44,HAM,Lewis Hamilton,Mercedes,15.0,10.0,10,Finished,1.0,50.0
+2022,2,24,ZHO,Guanyu Zhou,Alfa Romeo,12.0,11.0,11,Finished,0.0,50.0
+2022,2,27,HUL,Nico Hulkenberg,Aston Martin,17.0,12.0,12,Finished,0.0,50.0
+2022,2,18,STR,Lance Stroll,Aston Martin,13.0,13.0,13,+1 Lap,0.0,49.0
+2022,2,23,ALB,Alexander Albon,Williams,16.0,14.0,14,Collision damage,0.0,47.0
+2022,2,77,BOT,Valtteri Bottas,Alfa Romeo,8.0,15.0,R,Cooling system,0.0,36.0
+2022,2,14,ALO,Fernando Alonso,Alpine,7.0,16.0,R,Water pump,0.0,35.0
+2022,2,3,RIC,Daniel Ricciardo,McLaren,14.0,17.0,R,Gearbox,0.0,35.0
+2022,2,6,LAT,Nicholas Latifi,Williams,18.0,18.0,R,Accident,0.0,14.0
+2022,2,22,TSU,Yuki Tsunoda,AlphaTauri,19.0,19.0,R,Power Unit,0.0,0.0
+2022,2,47,MSC,Mick Schumacher,Haas F1 Team,,,W,Withdrew,0.0,0.0
+2022,3,16,LEC,Charles Leclerc,Ferrari,1.0,1.0,1,Finished,26.0,58.0
+2022,3,11,PER,Sergio Perez,Red Bull Racing,3.0,2.0,2,Finished,18.0,58.0
+2022,3,63,RUS,George Russell,Mercedes,6.0,3.0,3,Finished,15.0,58.0
+2022,3,44,HAM,Lewis Hamilton,Mercedes,5.0,4.0,4,Finished,12.0,58.0
+2022,3,4,NOR,Lando Norris,McLaren,4.0,5.0,5,Finished,10.0,58.0
+2022,3,3,RIC,Daniel Ricciardo,McLaren,7.0,6.0,6,Finished,8.0,58.0
+2022,3,31,OCO,Esteban Ocon,Alpine,8.0,7.0,7,Finished,6.0,58.0
+2022,3,77,BOT,Valtteri Bottas,Alfa Romeo,12.0,8.0,8,Finished,4.0,58.0
+2022,3,10,GAS,Pierre Gasly,AlphaTauri,11.0,9.0,9,Finished,2.0,58.0
+2022,3,23,ALB,Alexander Albon,Williams,20.0,10.0,10,Finished,1.0,58.0
+2022,3,24,ZHO,Guanyu Zhou,Alfa Romeo,14.0,11.0,11,Finished,0.0,58.0
+2022,3,18,STR,Lance Stroll,Aston Martin,19.0,12.0,12,Finished,0.0,58.0
+2022,3,47,MSC,Mick Schumacher,Haas F1 Team,15.0,13.0,13,+1 Lap,0.0,57.0
+2022,3,20,MAG,Kevin Magnussen,Haas F1 Team,16.0,14.0,14,+1 Lap,0.0,57.0
+2022,3,22,TSU,Yuki Tsunoda,AlphaTauri,13.0,15.0,15,+1 Lap,0.0,57.0
+2022,3,6,LAT,Nicholas Latifi,Williams,18.0,16.0,16,+1 Lap,0.0,57.0
+2022,3,14,ALO,Fernando Alonso,Alpine,10.0,17.0,17,+1 Lap,0.0,57.0
+2022,3,1,VER,Max Verstappen,Red Bull Racing,2.0,18.0,R,Fuel leak,0.0,38.0
+2022,3,5,VET,Sebastian Vettel,Aston Martin,17.0,19.0,R,Accident,0.0,22.0
+2022,3,55,SAI,Carlos Sainz,Ferrari,9.0,20.0,R,Spun off,0.0,1.0
+2022,4,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,26.0,63.0
+2022,4,11,PER,Sergio Perez,Red Bull Racing,3.0,2.0,2,Finished,18.0,63.0
+2022,4,4,NOR,Lando Norris,McLaren,5.0,3.0,3,Finished,15.0,63.0
+2022,4,63,RUS,George Russell,Mercedes,11.0,4.0,4,Finished,12.0,63.0
+2022,4,77,BOT,Valtteri Bottas,Alfa Romeo,7.0,5.0,5,Finished,10.0,63.0
+2022,4,16,LEC,Charles Leclerc,Ferrari,2.0,6.0,6,Finished,8.0,63.0
+2022,4,22,TSU,Yuki Tsunoda,AlphaTauri,12.0,7.0,7,Finished,6.0,63.0
+2022,4,5,VET,Sebastian Vettel,Aston Martin,13.0,8.0,8,Finished,4.0,63.0
+2022,4,20,MAG,Kevin Magnussen,Haas F1 Team,8.0,9.0,9,Finished,2.0,63.0
+2022,4,18,STR,Lance Stroll,Aston Martin,15.0,10.0,10,+1 Lap,1.0,62.0
+2022,4,23,ALB,Alexander Albon,Williams,18.0,11.0,11,+1 Lap,0.0,62.0
+2022,4,10,GAS,Pierre Gasly,AlphaTauri,17.0,12.0,12,+1 Lap,0.0,62.0
+2022,4,44,HAM,Lewis Hamilton,Mercedes,14.0,13.0,13,+1 Lap,0.0,62.0
+2022,4,31,OCO,Esteban Ocon,Alpine,16.0,14.0,14,+1 Lap,0.0,62.0
+2022,4,24,ZHO,Guanyu Zhou,Alfa Romeo,0.0,15.0,15,+1 Lap,0.0,62.0
+2022,4,6,LAT,Nicholas Latifi,Williams,19.0,16.0,16,+1 Lap,0.0,62.0
+2022,4,47,MSC,Mick Schumacher,Haas F1 Team,10.0,17.0,17,+1 Lap,0.0,62.0
+2022,4,3,RIC,Daniel Ricciardo,McLaren,6.0,18.0,18,+1 Lap,0.0,62.0
+2022,4,14,ALO,Fernando Alonso,Alpine,9.0,19.0,R,Collision damage,0.0,6.0
+2022,4,55,SAI,Carlos Sainz,Ferrari,4.0,20.0,R,Collision,0.0,0.0
+2022,5,1,VER,Max Verstappen,Red Bull Racing,3.0,1.0,1,Finished,26.0,57.0
+2022,5,16,LEC,Charles Leclerc,Ferrari,1.0,2.0,2,Finished,18.0,57.0
+2022,5,55,SAI,Carlos Sainz,Ferrari,2.0,3.0,3,Finished,15.0,57.0
+2022,5,11,PER,Sergio Perez,Red Bull Racing,4.0,4.0,4,Finished,12.0,57.0
+2022,5,63,RUS,George Russell,Mercedes,12.0,5.0,5,Finished,10.0,57.0
+2022,5,44,HAM,Lewis Hamilton,Mercedes,6.0,6.0,6,Finished,8.0,57.0
+2022,5,77,BOT,Valtteri Bottas,Alfa Romeo,5.0,7.0,7,Finished,6.0,57.0
+2022,5,31,OCO,Esteban Ocon,Alpine,20.0,8.0,8,Finished,4.0,57.0
+2022,5,23,ALB,Alexander Albon,Williams,18.0,9.0,9,Finished,2.0,57.0
+2022,5,18,STR,Lance Stroll,Aston Martin,0.0,10.0,10,Finished,1.0,57.0
+2022,5,14,ALO,Fernando Alonso,Alpine,11.0,11.0,11,Finished,0.0,57.0
+2022,5,22,TSU,Yuki Tsunoda,AlphaTauri,9.0,12.0,12,Finished,0.0,57.0
+2022,5,3,RIC,Daniel Ricciardo,McLaren,14.0,13.0,13,Finished,0.0,57.0
+2022,5,6,LAT,Nicholas Latifi,Williams,19.0,14.0,14,Finished,0.0,57.0
+2022,5,47,MSC,Mick Schumacher,Haas F1 Team,15.0,15.0,15,Finished,0.0,57.0
+2022,5,20,MAG,Kevin Magnussen,Haas F1 Team,16.0,16.0,16,Front wing,0.0,56.0
+2022,5,5,VET,Sebastian Vettel,Aston Martin,0.0,17.0,17,Collision,0.0,54.0
+2022,5,10,GAS,Pierre Gasly,AlphaTauri,7.0,18.0,R,Suspension,0.0,45.0
+2022,5,4,NOR,Lando Norris,McLaren,8.0,19.0,R,Collision,0.0,39.0
+2022,5,24,ZHO,Guanyu Zhou,Alfa Romeo,17.0,20.0,R,Water leak,0.0,6.0
+2022,6,1,VER,Max Verstappen,Red Bull Racing,2.0,1.0,1,Finished,25.0,66.0
+2022,6,11,PER,Sergio Perez,Red Bull Racing,5.0,2.0,2,Finished,19.0,66.0
+2022,6,63,RUS,George Russell,Mercedes,4.0,3.0,3,Finished,15.0,66.0
+2022,6,55,SAI,Carlos Sainz,Ferrari,3.0,4.0,4,Finished,12.0,66.0
+2022,6,44,HAM,Lewis Hamilton,Mercedes,6.0,5.0,5,Finished,10.0,66.0
+2022,6,77,BOT,Valtteri Bottas,Alfa Romeo,7.0,6.0,6,Finished,8.0,66.0
+2022,6,31,OCO,Esteban Ocon,Alpine,12.0,7.0,7,Finished,6.0,66.0
+2022,6,4,NOR,Lando Norris,McLaren,11.0,8.0,8,Finished,4.0,66.0
+2022,6,14,ALO,Fernando Alonso,Alpine,20.0,9.0,9,+1 Lap,2.0,65.0
+2022,6,22,TSU,Yuki Tsunoda,AlphaTauri,13.0,10.0,10,+1 Lap,1.0,65.0
+2022,6,5,VET,Sebastian Vettel,Aston Martin,16.0,11.0,11,+1 Lap,0.0,65.0
+2022,6,3,RIC,Daniel Ricciardo,McLaren,9.0,12.0,12,+1 Lap,0.0,65.0
+2022,6,10,GAS,Pierre Gasly,AlphaTauri,14.0,13.0,13,+1 Lap,0.0,65.0
+2022,6,47,MSC,Mick Schumacher,Haas F1 Team,10.0,14.0,14,+1 Lap,0.0,65.0
+2022,6,18,STR,Lance Stroll,Aston Martin,17.0,15.0,15,+1 Lap,0.0,65.0
+2022,6,6,LAT,Nicholas Latifi,Williams,19.0,16.0,16,+2 Laps,0.0,64.0
+2022,6,20,MAG,Kevin Magnussen,Haas F1 Team,8.0,17.0,17,+2 Laps,0.0,64.0
+2022,6,23,ALB,Alexander Albon,Williams,18.0,18.0,18,+2 Laps,0.0,64.0
+2022,6,24,ZHO,Guanyu Zhou,Alfa Romeo,15.0,19.0,R,Power loss,0.0,28.0
+2022,6,16,LEC,Charles Leclerc,Ferrari,1.0,20.0,R,Turbo,0.0,27.0
+2022,7,11,PER,Sergio Perez,Red Bull Racing,3.0,1.0,1,Finished,25.0,64.0
+2022,7,55,SAI,Carlos Sainz,Ferrari,2.0,2.0,2,Finished,18.0,64.0
+2022,7,1,VER,Max Verstappen,Red Bull Racing,4.0,3.0,3,Finished,15.0,64.0
+2022,7,16,LEC,Charles Leclerc,Ferrari,1.0,4.0,4,Finished,12.0,64.0
+2022,7,63,RUS,George Russell,Mercedes,6.0,5.0,5,Finished,10.0,64.0
+2022,7,4,NOR,Lando Norris,McLaren,5.0,6.0,6,Finished,9.0,64.0
+2022,7,14,ALO,Fernando Alonso,Alpine,7.0,7.0,7,Finished,6.0,64.0
+2022,7,44,HAM,Lewis Hamilton,Mercedes,8.0,8.0,8,Finished,4.0,64.0
+2022,7,77,BOT,Valtteri Bottas,Alfa Romeo,12.0,9.0,9,Finished,2.0,64.0
+2022,7,5,VET,Sebastian Vettel,Aston Martin,9.0,10.0,10,Finished,1.0,64.0
+2022,7,10,GAS,Pierre Gasly,AlphaTauri,17.0,11.0,11,Finished,0.0,64.0
+2022,7,31,OCO,Esteban Ocon,Alpine,10.0,12.0,12,Finished,0.0,64.0
+2022,7,3,RIC,Daniel Ricciardo,McLaren,14.0,13.0,13,Finished,0.0,64.0
+2022,7,18,STR,Lance Stroll,Aston Martin,18.0,14.0,14,Finished,0.0,64.0
+2022,7,6,LAT,Nicholas Latifi,Williams,19.0,15.0,15,+1 Lap,0.0,63.0
+2022,7,24,ZHO,Guanyu Zhou,Alfa Romeo,20.0,16.0,16,+1 Lap,0.0,63.0
+2022,7,22,TSU,Yuki Tsunoda,AlphaTauri,11.0,17.0,17,+1 Lap,0.0,63.0
+2022,7,23,ALB,Alexander Albon,Williams,16.0,18.0,R,Mechanical,0.0,48.0
+2022,7,47,MSC,Mick Schumacher,Haas F1 Team,15.0,19.0,R,Accident,0.0,24.0
+2022,7,20,MAG,Kevin Magnussen,Haas F1 Team,13.0,20.0,R,Water pressure,0.0,19.0
+2022,8,1,VER,Max Verstappen,Red Bull Racing,3.0,1.0,1,Finished,25.0,51.0
+2022,8,11,PER,Sergio Perez,Red Bull Racing,2.0,2.0,2,Finished,19.0,51.0
+2022,8,63,RUS,George Russell,Mercedes,5.0,3.0,3,Finished,15.0,51.0
+2022,8,44,HAM,Lewis Hamilton,Mercedes,7.0,4.0,4,Finished,12.0,51.0
+2022,8,10,GAS,Pierre Gasly,AlphaTauri,6.0,5.0,5,Finished,10.0,51.0
+2022,8,5,VET,Sebastian Vettel,Aston Martin,9.0,6.0,6,Finished,8.0,51.0
+2022,8,14,ALO,Fernando Alonso,Alpine,10.0,7.0,7,Finished,6.0,51.0
+2022,8,3,RIC,Daniel Ricciardo,McLaren,12.0,8.0,8,Finished,4.0,51.0
+2022,8,4,NOR,Lando Norris,McLaren,11.0,9.0,9,Finished,2.0,51.0
+2022,8,31,OCO,Esteban Ocon,Alpine,13.0,10.0,10,Finished,1.0,51.0
+2022,8,77,BOT,Valtteri Bottas,Alfa Romeo,15.0,11.0,11,+1 Lap,0.0,50.0
+2022,8,23,ALB,Alexander Albon,Williams,17.0,12.0,12,+1 Lap,0.0,50.0
+2022,8,22,TSU,Yuki Tsunoda,AlphaTauri,8.0,13.0,13,+1 Lap,0.0,50.0
+2022,8,47,MSC,Mick Schumacher,Haas F1 Team,20.0,14.0,14,+1 Lap,0.0,50.0
+2022,8,6,LAT,Nicholas Latifi,Williams,18.0,15.0,15,+1 Lap,0.0,50.0
+2022,8,18,STR,Lance Stroll,Aston Martin,19.0,16.0,16,Vibrations,0.0,46.0
+2022,8,20,MAG,Kevin Magnussen,Haas F1 Team,16.0,17.0,R,Power Unit,0.0,31.0
+2022,8,24,ZHO,Guanyu Zhou,Alfa Romeo,14.0,18.0,R,Hydraulics,0.0,23.0
+2022,8,16,LEC,Charles Leclerc,Ferrari,1.0,19.0,R,Power Unit,0.0,21.0
+2022,8,55,SAI,Carlos Sainz,Ferrari,4.0,20.0,R,Hydraulics,0.0,8.0
+2022,9,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,25.0,70.0
+2022,9,55,SAI,Carlos Sainz,Ferrari,3.0,2.0,2,Finished,19.0,70.0
+2022,9,44,HAM,Lewis Hamilton,Mercedes,4.0,3.0,3,Finished,15.0,70.0
+2022,9,63,RUS,George Russell,Mercedes,8.0,4.0,4,Finished,12.0,70.0
+2022,9,16,LEC,Charles Leclerc,Ferrari,19.0,5.0,5,Finished,10.0,70.0
+2022,9,31,OCO,Esteban Ocon,Alpine,7.0,6.0,6,Finished,8.0,70.0
+2022,9,77,BOT,Valtteri Bottas,Alfa Romeo,11.0,7.0,7,Finished,6.0,70.0
+2022,9,24,ZHO,Guanyu Zhou,Alfa Romeo,10.0,8.0,8,Finished,4.0,70.0
+2022,9,14,ALO,Fernando Alonso,Alpine,2.0,9.0,9,Finished,2.0,70.0
+2022,9,18,STR,Lance Stroll,Aston Martin,17.0,10.0,10,Finished,1.0,70.0
+2022,9,3,RIC,Daniel Ricciardo,McLaren,9.0,11.0,11,Finished,0.0,70.0
+2022,9,5,VET,Sebastian Vettel,Aston Martin,16.0,12.0,12,Finished,0.0,70.0
+2022,9,23,ALB,Alexander Albon,Williams,12.0,13.0,13,Finished,0.0,70.0
+2022,9,10,GAS,Pierre Gasly,AlphaTauri,15.0,14.0,14,Finished,0.0,70.0
+2022,9,4,NOR,Lando Norris,McLaren,14.0,15.0,15,Finished,0.0,70.0
+2022,9,6,LAT,Nicholas Latifi,Williams,18.0,16.0,16,Finished,0.0,70.0
+2022,9,20,MAG,Kevin Magnussen,Haas F1 Team,5.0,17.0,17,Finished,0.0,70.0
+2022,9,22,TSU,Yuki Tsunoda,AlphaTauri,20.0,18.0,R,Accident,0.0,47.0
+2022,9,47,MSC,Mick Schumacher,Haas F1 Team,6.0,19.0,R,Engine,0.0,18.0
+2022,9,11,PER,Sergio Perez,Red Bull Racing,13.0,20.0,R,Gearbox,0.0,7.0
+2022,10,55,SAI,Carlos Sainz,Ferrari,1.0,1.0,1,Finished,25.0,52.0
+2022,10,11,PER,Sergio Perez,Red Bull Racing,4.0,2.0,2,Finished,18.0,52.0
+2022,10,44,HAM,Lewis Hamilton,Mercedes,5.0,3.0,3,Finished,16.0,52.0
+2022,10,16,LEC,Charles Leclerc,Ferrari,3.0,4.0,4,Finished,12.0,52.0
+2022,10,14,ALO,Fernando Alonso,Alpine,7.0,5.0,5,Finished,10.0,52.0
+2022,10,4,NOR,Lando Norris,McLaren,6.0,6.0,6,Finished,8.0,52.0
+2022,10,1,VER,Max Verstappen,Red Bull Racing,2.0,7.0,7,Finished,6.0,52.0
+2022,10,47,MSC,Mick Schumacher,Haas F1 Team,19.0,8.0,8,Finished,4.0,52.0
+2022,10,5,VET,Sebastian Vettel,Aston Martin,18.0,9.0,9,Finished,2.0,52.0
+2022,10,20,MAG,Kevin Magnussen,Haas F1 Team,17.0,10.0,10,Finished,1.0,52.0
+2022,10,18,STR,Lance Stroll,Aston Martin,20.0,11.0,11,Finished,0.0,52.0
+2022,10,6,LAT,Nicholas Latifi,Williams,10.0,12.0,12,Finished,0.0,52.0
+2022,10,3,RIC,Daniel Ricciardo,McLaren,14.0,13.0,13,Finished,0.0,52.0
+2022,10,22,TSU,Yuki Tsunoda,AlphaTauri,13.0,14.0,14,Finished,0.0,52.0
+2022,10,31,OCO,Esteban Ocon,Alpine,15.0,15.0,R,Fuel pump,0.0,37.0
+2022,10,10,GAS,Pierre Gasly,AlphaTauri,11.0,16.0,R,Collision damage,0.0,26.0
+2022,10,77,BOT,Valtteri Bottas,Alfa Romeo,12.0,17.0,R,Gearbox,0.0,20.0
+2022,10,63,RUS,George Russell,Mercedes,8.0,18.0,R,Collision,0.0,0.0
+2022,10,24,ZHO,Guanyu Zhou,Alfa Romeo,9.0,19.0,R,Collision,0.0,0.0
+2022,10,23,ALB,Alexander Albon,Williams,16.0,20.0,R,Collision,0.0,0.0
+2022,11,16,LEC,Charles Leclerc,Ferrari,2.0,1.0,1,Finished,25.0,71.0
+2022,11,1,VER,Max Verstappen,Red Bull Racing,1.0,2.0,2,Finished,19.0,71.0
+2022,11,44,HAM,Lewis Hamilton,Mercedes,8.0,3.0,3,Finished,15.0,71.0
+2022,11,63,RUS,George Russell,Mercedes,4.0,4.0,4,Finished,12.0,71.0
+2022,11,31,OCO,Esteban Ocon,Alpine,6.0,5.0,5,Finished,10.0,71.0
+2022,11,47,MSC,Mick Schumacher,Haas F1 Team,9.0,6.0,6,+1 Lap,8.0,70.0
+2022,11,4,NOR,Lando Norris,McLaren,10.0,7.0,7,+1 Lap,6.0,70.0
+2022,11,20,MAG,Kevin Magnussen,Haas F1 Team,7.0,8.0,8,+1 Lap,4.0,70.0
+2022,11,3,RIC,Daniel Ricciardo,McLaren,11.0,9.0,9,+1 Lap,2.0,70.0
+2022,11,14,ALO,Fernando Alonso,Alpine,19.0,10.0,10,+1 Lap,1.0,70.0
+2022,11,77,BOT,Valtteri Bottas,Alfa Romeo,0.0,11.0,11,+1 Lap,0.0,70.0
+2022,11,23,ALB,Alexander Albon,Williams,15.0,12.0,12,+1 Lap,0.0,70.0
+2022,11,18,STR,Lance Stroll,Aston Martin,12.0,13.0,13,+1 Lap,0.0,70.0
+2022,11,24,ZHO,Guanyu Zhou,Alfa Romeo,13.0,14.0,14,+1 Lap,0.0,70.0
+2022,11,10,GAS,Pierre Gasly,AlphaTauri,14.0,15.0,15,+1 Lap,0.0,70.0
+2022,11,22,TSU,Yuki Tsunoda,AlphaTauri,16.0,16.0,16,+1 Lap,0.0,70.0
+2022,11,5,VET,Sebastian Vettel,Aston Martin,18.0,17.0,17,+1 Lap,0.0,70.0
+2022,11,55,SAI,Carlos Sainz,Ferrari,3.0,18.0,R,Power Unit,0.0,56.0
+2022,11,6,LAT,Nicholas Latifi,Williams,17.0,19.0,R,Undertray,0.0,48.0
+2022,11,11,PER,Sergio Perez,Red Bull Racing,5.0,20.0,R,Collision damage,0.0,24.0
+2022,12,1,VER,Max Verstappen,Red Bull Racing,2.0,1.0,1,Finished,25.0,53.0
+2022,12,44,HAM,Lewis Hamilton,Mercedes,4.0,2.0,2,Finished,18.0,53.0
+2022,12,63,RUS,George Russell,Mercedes,6.0,3.0,3,Finished,15.0,53.0
+2022,12,11,PER,Sergio Perez,Red Bull Racing,3.0,4.0,4,Finished,12.0,53.0
+2022,12,55,SAI,Carlos Sainz,Ferrari,19.0,5.0,5,Finished,11.0,53.0
+2022,12,14,ALO,Fernando Alonso,Alpine,7.0,6.0,6,Finished,8.0,53.0
+2022,12,4,NOR,Lando Norris,McLaren,5.0,7.0,7,Finished,6.0,53.0
+2022,12,31,OCO,Esteban Ocon,Alpine,10.0,8.0,8,Finished,4.0,53.0
+2022,12,3,RIC,Daniel Ricciardo,McLaren,9.0,9.0,9,Finished,2.0,53.0
+2022,12,18,STR,Lance Stroll,Aston Martin,15.0,10.0,10,Finished,1.0,53.0
+2022,12,5,VET,Sebastian Vettel,Aston Martin,12.0,11.0,11,Finished,0.0,53.0
+2022,12,10,GAS,Pierre Gasly,AlphaTauri,14.0,12.0,12,Finished,0.0,53.0
+2022,12,23,ALB,Alexander Albon,Williams,13.0,13.0,13,Finished,0.0,53.0
+2022,12,77,BOT,Valtteri Bottas,Alfa Romeo,11.0,14.0,14,Finished,0.0,53.0
+2022,12,47,MSC,Mick Schumacher,Haas F1 Team,17.0,15.0,15,Finished,0.0,53.0
+2022,12,24,ZHO,Guanyu Zhou,Alfa Romeo,16.0,16.0,16,+6 Laps,0.0,47.0
+2022,12,6,LAT,Nicholas Latifi,Williams,18.0,17.0,R,Collision damage,0.0,40.0
+2022,12,20,MAG,Kevin Magnussen,Haas F1 Team,20.0,18.0,R,Collision damage,0.0,37.0
+2022,12,16,LEC,Charles Leclerc,Ferrari,1.0,19.0,R,Accident,0.0,17.0
+2022,12,22,TSU,Yuki Tsunoda,AlphaTauri,8.0,20.0,R,Undertray,0.0,17.0
+2022,13,1,VER,Max Verstappen,Red Bull Racing,10.0,1.0,1,Finished,25.0,70.0
+2022,13,44,HAM,Lewis Hamilton,Mercedes,7.0,2.0,2,Finished,19.0,70.0
+2022,13,63,RUS,George Russell,Mercedes,1.0,3.0,3,Finished,15.0,70.0
+2022,13,55,SAI,Carlos Sainz,Ferrari,2.0,4.0,4,Finished,12.0,70.0
+2022,13,11,PER,Sergio Perez,Red Bull Racing,11.0,5.0,5,Finished,10.0,70.0
+2022,13,16,LEC,Charles Leclerc,Ferrari,3.0,6.0,6,Finished,8.0,70.0
+2022,13,4,NOR,Lando Norris,McLaren,4.0,7.0,7,Finished,6.0,70.0
+2022,13,14,ALO,Fernando Alonso,Alpine,6.0,8.0,8,+1 Lap,4.0,69.0
+2022,13,31,OCO,Esteban Ocon,Alpine,5.0,9.0,9,+1 Lap,2.0,69.0
+2022,13,5,VET,Sebastian Vettel,Aston Martin,18.0,10.0,10,+1 Lap,1.0,69.0
+2022,13,18,STR,Lance Stroll,Aston Martin,14.0,11.0,11,+1 Lap,0.0,69.0
+2022,13,10,GAS,Pierre Gasly,AlphaTauri,0.0,12.0,12,+1 Lap,0.0,69.0
+2022,13,24,ZHO,Guanyu Zhou,Alfa Romeo,12.0,13.0,13,+1 Lap,0.0,69.0
+2022,13,47,MSC,Mick Schumacher,Haas F1 Team,15.0,14.0,14,+1 Lap,0.0,69.0
+2022,13,3,RIC,Daniel Ricciardo,McLaren,9.0,15.0,15,+1 Lap,0.0,69.0
+2022,13,20,MAG,Kevin Magnussen,Haas F1 Team,13.0,16.0,16,+1 Lap,0.0,69.0
+2022,13,23,ALB,Alexander Albon,Williams,17.0,17.0,17,+1 Lap,0.0,69.0
+2022,13,6,LAT,Nicholas Latifi,Williams,19.0,18.0,18,+1 Lap,0.0,69.0
+2022,13,22,TSU,Yuki Tsunoda,AlphaTauri,16.0,19.0,19,+2 Laps,0.0,68.0
+2022,13,77,BOT,Valtteri Bottas,Alfa Romeo,8.0,20.0,20,Power Unit,0.0,65.0
+2022,14,1,VER,Max Verstappen,Red Bull Racing,14.0,1.0,1,Finished,26.0,44.0
+2022,14,11,PER,Sergio Perez,Red Bull Racing,2.0,2.0,2,Finished,18.0,44.0
+2022,14,55,SAI,Carlos Sainz,Ferrari,1.0,3.0,3,Finished,15.0,44.0
+2022,14,63,RUS,George Russell,Mercedes,5.0,4.0,4,Finished,12.0,44.0
+2022,14,14,ALO,Fernando Alonso,Alpine,3.0,5.0,5,Finished,10.0,44.0
+2022,14,16,LEC,Charles Leclerc,Ferrari,15.0,6.0,6,Finished,8.0,44.0
+2022,14,31,OCO,Esteban Ocon,Alpine,16.0,7.0,7,Finished,6.0,44.0
+2022,14,5,VET,Sebastian Vettel,Aston Martin,10.0,8.0,8,Finished,4.0,44.0
+2022,14,10,GAS,Pierre Gasly,AlphaTauri,0.0,9.0,9,Finished,2.0,44.0
+2022,14,23,ALB,Alexander Albon,Williams,6.0,10.0,10,Finished,1.0,44.0
+2022,14,18,STR,Lance Stroll,Aston Martin,9.0,11.0,11,Finished,0.0,44.0
+2022,14,4,NOR,Lando Norris,McLaren,17.0,12.0,12,Finished,0.0,44.0
+2022,14,22,TSU,Yuki Tsunoda,AlphaTauri,0.0,13.0,13,Finished,0.0,44.0
+2022,14,24,ZHO,Guanyu Zhou,Alfa Romeo,18.0,14.0,14,Finished,0.0,44.0
+2022,14,3,RIC,Daniel Ricciardo,McLaren,7.0,15.0,15,Finished,0.0,44.0
+2022,14,20,MAG,Kevin Magnussen,Haas F1 Team,12.0,16.0,16,+1 Lap,0.0,43.0
+2022,14,47,MSC,Mick Schumacher,Haas F1 Team,19.0,17.0,17,+1 Lap,0.0,43.0
+2022,14,6,LAT,Nicholas Latifi,Williams,11.0,18.0,18,+1 Lap,0.0,43.0
+2022,14,77,BOT,Valtteri Bottas,Alfa Romeo,13.0,19.0,R,Accident,0.0,1.0
+2022,14,44,HAM,Lewis Hamilton,Mercedes,4.0,20.0,R,Collision damage,0.0,0.0
+2022,15,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,26.0,72.0
+2022,15,63,RUS,George Russell,Mercedes,6.0,2.0,2,Finished,18.0,72.0
+2022,15,16,LEC,Charles Leclerc,Ferrari,2.0,3.0,3,Finished,15.0,72.0
+2022,15,44,HAM,Lewis Hamilton,Mercedes,4.0,4.0,4,Finished,12.0,72.0
+2022,15,11,PER,Sergio Perez,Red Bull Racing,5.0,5.0,5,Finished,10.0,72.0
+2022,15,14,ALO,Fernando Alonso,Alpine,13.0,6.0,6,Finished,8.0,72.0
+2022,15,4,NOR,Lando Norris,McLaren,7.0,7.0,7,Finished,6.0,72.0
+2022,15,55,SAI,Carlos Sainz,Ferrari,3.0,8.0,8,Finished,4.0,72.0
+2022,15,31,OCO,Esteban Ocon,Alpine,12.0,9.0,9,Finished,2.0,72.0
+2022,15,18,STR,Lance Stroll,Aston Martin,10.0,10.0,10,Finished,1.0,72.0
+2022,15,10,GAS,Pierre Gasly,AlphaTauri,11.0,11.0,11,Finished,0.0,72.0
+2022,15,23,ALB,Alexander Albon,Williams,15.0,12.0,12,Finished,0.0,72.0
+2022,15,47,MSC,Mick Schumacher,Haas F1 Team,8.0,13.0,13,Finished,0.0,72.0
+2022,15,5,VET,Sebastian Vettel,Aston Martin,19.0,14.0,14,Finished,0.0,72.0
+2022,15,20,MAG,Kevin Magnussen,Haas F1 Team,18.0,15.0,15,Finished,0.0,72.0
+2022,15,24,ZHO,Guanyu Zhou,Alfa Romeo,14.0,16.0,16,Finished,0.0,72.0
+2022,15,3,RIC,Daniel Ricciardo,McLaren,17.0,17.0,17,Finished,0.0,72.0
+2022,15,6,LAT,Nicholas Latifi,Williams,20.0,18.0,18,+1 Lap,0.0,71.0
+2022,15,77,BOT,Valtteri Bottas,Alfa Romeo,16.0,19.0,R,Engine,0.0,53.0
+2022,15,22,TSU,Yuki Tsunoda,AlphaTauri,9.0,20.0,R,Differential,0.0,43.0
+2022,16,1,VER,Max Verstappen,Red Bull Racing,7.0,1.0,1,Finished,25.0,53.0
+2022,16,16,LEC,Charles Leclerc,Ferrari,1.0,2.0,2,Finished,18.0,53.0
+2022,16,63,RUS,George Russell,Mercedes,2.0,3.0,3,Finished,15.0,53.0
+2022,16,55,SAI,Carlos Sainz,Ferrari,18.0,4.0,4,Finished,12.0,53.0
+2022,16,44,HAM,Lewis Hamilton,Mercedes,19.0,5.0,5,Finished,10.0,53.0
+2022,16,11,PER,Sergio Perez,Red Bull Racing,13.0,6.0,6,Finished,9.0,53.0
+2022,16,4,NOR,Lando Norris,McLaren,3.0,7.0,7,Finished,6.0,53.0
+2022,16,10,GAS,Pierre Gasly,AlphaTauri,5.0,8.0,8,Finished,4.0,53.0
+2022,16,45,DEV,Nyck De Vries,Williams,8.0,9.0,9,Finished,2.0,53.0
+2022,16,24,ZHO,Guanyu Zhou,Alfa Romeo,9.0,10.0,10,Finished,1.0,53.0
+2022,16,31,OCO,Esteban Ocon,Alpine,14.0,11.0,11,Finished,0.0,53.0
+2022,16,47,MSC,Mick Schumacher,Haas F1 Team,17.0,12.0,12,Finished,0.0,53.0
+2022,16,77,BOT,Valtteri Bottas,Alfa Romeo,15.0,13.0,13,+1 Lap,0.0,52.0
+2022,16,22,TSU,Yuki Tsunoda,AlphaTauri,20.0,14.0,14,+1 Lap,0.0,52.0
+2022,16,6,LAT,Nicholas Latifi,Williams,10.0,15.0,15,+1 Lap,0.0,52.0
+2022,16,20,MAG,Kevin Magnussen,Haas F1 Team,16.0,16.0,16,+1 Lap,0.0,52.0
+2022,16,3,RIC,Daniel Ricciardo,McLaren,4.0,17.0,R,Oil leak,0.0,45.0
+2022,16,18,STR,Lance Stroll,Aston Martin,12.0,18.0,R,Engine,0.0,39.0
+2022,16,14,ALO,Fernando Alonso,Alpine,6.0,19.0,R,Water pressure,0.0,31.0
+2022,16,5,VET,Sebastian Vettel,Aston Martin,11.0,20.0,R,Engine,0.0,10.0
+2022,17,11,PER,Sergio Perez,Red Bull Racing,2.0,1.0,1,Finished,25.0,59.0
+2022,17,16,LEC,Charles Leclerc,Ferrari,1.0,2.0,2,Finished,18.0,59.0
+2022,17,55,SAI,Carlos Sainz,Ferrari,4.0,3.0,3,Finished,15.0,59.0
+2022,17,4,NOR,Lando Norris,McLaren,6.0,4.0,4,Finished,12.0,59.0
+2022,17,3,RIC,Daniel Ricciardo,McLaren,16.0,5.0,5,Finished,10.0,59.0
+2022,17,18,STR,Lance Stroll,Aston Martin,11.0,6.0,6,Finished,8.0,59.0
+2022,17,1,VER,Max Verstappen,Red Bull Racing,8.0,7.0,7,Finished,6.0,59.0
+2022,17,5,VET,Sebastian Vettel,Aston Martin,13.0,8.0,8,Finished,4.0,59.0
+2022,17,44,HAM,Lewis Hamilton,Mercedes,3.0,9.0,9,Finished,2.0,59.0
+2022,17,10,GAS,Pierre Gasly,AlphaTauri,7.0,10.0,10,Finished,1.0,59.0
+2022,17,77,BOT,Valtteri Bottas,Alfa Romeo,15.0,11.0,11,Finished,0.0,59.0
+2022,17,20,MAG,Kevin Magnussen,Haas F1 Team,9.0,12.0,12,Finished,0.0,59.0
+2022,17,47,MSC,Mick Schumacher,Haas F1 Team,12.0,13.0,13,+1 Lap,0.0,58.0
+2022,17,63,RUS,George Russell,Mercedes,0.0,14.0,14,+2 Laps,0.0,57.0
+2022,17,22,TSU,Yuki Tsunoda,AlphaTauri,10.0,15.0,R,Accident,0.0,34.0
+2022,17,31,OCO,Esteban Ocon,Alpine,17.0,16.0,R,Engine,0.0,26.0
+2022,17,23,ALB,Alexander Albon,Williams,18.0,17.0,R,Collision damage,0.0,25.0
+2022,17,14,ALO,Fernando Alonso,Alpine,5.0,18.0,R,Engine,0.0,20.0
+2022,17,6,LAT,Nicholas Latifi,Williams,19.0,19.0,R,Collision damage,0.0,7.0
+2022,17,24,ZHO,Guanyu Zhou,Alfa Romeo,14.0,20.0,R,Collision,0.0,6.0
+2022,18,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,25.0,28.0
+2022,18,11,PER,Sergio Perez,Red Bull Racing,4.0,2.0,2,Finished,18.0,28.0
+2022,18,16,LEC,Charles Leclerc,Ferrari,2.0,3.0,3,Finished,15.0,28.0
+2022,18,31,OCO,Esteban Ocon,Alpine,5.0,4.0,4,Finished,12.0,28.0
+2022,18,44,HAM,Lewis Hamilton,Mercedes,6.0,5.0,5,Finished,10.0,28.0
+2022,18,5,VET,Sebastian Vettel,Aston Martin,9.0,6.0,6,Finished,8.0,28.0
+2022,18,14,ALO,Fernando Alonso,Alpine,7.0,7.0,7,Finished,6.0,28.0
+2022,18,63,RUS,George Russell,Mercedes,8.0,8.0,8,Finished,4.0,28.0
+2022,18,6,LAT,Nicholas Latifi,Williams,20.0,9.0,9,Finished,2.0,28.0
+2022,18,4,NOR,Lando Norris,McLaren,10.0,10.0,10,Finished,1.0,28.0
+2022,18,3,RIC,Daniel Ricciardo,McLaren,11.0,11.0,11,Finished,0.0,28.0
+2022,18,18,STR,Lance Stroll,Aston Martin,19.0,12.0,12,Finished,0.0,28.0
+2022,18,22,TSU,Yuki Tsunoda,AlphaTauri,13.0,13.0,13,Finished,0.0,28.0
+2022,18,20,MAG,Kevin Magnussen,Haas F1 Team,18.0,14.0,14,Finished,0.0,28.0
+2022,18,77,BOT,Valtteri Bottas,Alfa Romeo,12.0,15.0,15,Finished,0.0,28.0
+2022,18,24,ZHO,Guanyu Zhou,Alfa Romeo,14.0,16.0,16,Finished,0.0,28.0
+2022,18,47,MSC,Mick Schumacher,Haas F1 Team,15.0,17.0,17,Finished,0.0,28.0
+2022,18,10,GAS,Pierre Gasly,AlphaTauri,17.0,18.0,18,Finished,0.0,28.0
+2022,18,55,SAI,Carlos Sainz,Ferrari,3.0,19.0,R,Accident,0.0,0.0
+2022,18,23,ALB,Alexander Albon,Williams,16.0,20.0,R,Hydraulics,0.0,0.0
+2022,19,1,VER,Max Verstappen,Red Bull Racing,2.0,1.0,1,Finished,25.0,56.0
+2022,19,44,HAM,Lewis Hamilton,Mercedes,3.0,2.0,2,Finished,18.0,56.0
+2022,19,16,LEC,Charles Leclerc,Ferrari,12.0,3.0,3,Finished,15.0,56.0
+2022,19,11,PER,Sergio Perez,Red Bull Racing,9.0,4.0,4,Finished,12.0,56.0
+2022,19,63,RUS,George Russell,Mercedes,4.0,5.0,5,Finished,11.0,56.0
+2022,19,4,NOR,Lando Norris,McLaren,6.0,6.0,6,Finished,8.0,56.0
+2022,19,14,ALO,Fernando Alonso,Alpine,14.0,7.0,7,Finished,6.0,56.0
+2022,19,5,VET,Sebastian Vettel,Aston Martin,10.0,8.0,8,Finished,4.0,56.0
+2022,19,20,MAG,Kevin Magnussen,Haas F1 Team,13.0,9.0,9,Finished,2.0,56.0
+2022,19,22,TSU,Yuki Tsunoda,AlphaTauri,19.0,10.0,10,Finished,1.0,56.0
+2022,19,31,OCO,Esteban Ocon,Alpine,0.0,11.0,11,Finished,0.0,56.0
+2022,19,24,ZHO,Guanyu Zhou,Alfa Romeo,18.0,12.0,12,Finished,0.0,56.0
+2022,19,23,ALB,Alexander Albon,Williams,8.0,13.0,13,Finished,0.0,56.0
+2022,19,10,GAS,Pierre Gasly,AlphaTauri,11.0,14.0,14,Finished,0.0,56.0
+2022,19,47,MSC,Mick Schumacher,Haas F1 Team,16.0,15.0,15,Finished,0.0,56.0
+2022,19,3,RIC,Daniel Ricciardo,McLaren,15.0,16.0,16,Finished,0.0,56.0
+2022,19,6,LAT,Nicholas Latifi,Williams,17.0,17.0,17,Finished,0.0,56.0
+2022,19,18,STR,Lance Stroll,Aston Martin,5.0,18.0,R,Collision,0.0,21.0
+2022,19,77,BOT,Valtteri Bottas,Alfa Romeo,7.0,19.0,R,Spun off,0.0,16.0
+2022,19,55,SAI,Carlos Sainz,Ferrari,1.0,20.0,R,Collision damage,0.0,1.0
+2022,20,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,25.0,71.0
+2022,20,44,HAM,Lewis Hamilton,Mercedes,3.0,2.0,2,Finished,18.0,71.0
+2022,20,11,PER,Sergio Perez,Red Bull Racing,4.0,3.0,3,Finished,15.0,71.0
+2022,20,63,RUS,George Russell,Mercedes,2.0,4.0,4,Finished,13.0,71.0
+2022,20,55,SAI,Carlos Sainz,Ferrari,5.0,5.0,5,Finished,10.0,71.0
+2022,20,16,LEC,Charles Leclerc,Ferrari,7.0,6.0,6,Finished,8.0,71.0
+2022,20,3,RIC,Daniel Ricciardo,McLaren,11.0,7.0,7,+1 Lap,6.0,70.0
+2022,20,31,OCO,Esteban Ocon,Alpine,10.0,8.0,8,+1 Lap,4.0,70.0
+2022,20,4,NOR,Lando Norris,McLaren,8.0,9.0,9,+1 Lap,2.0,70.0
+2022,20,77,BOT,Valtteri Bottas,Alfa Romeo,6.0,10.0,10,+1 Lap,1.0,70.0
+2022,20,10,GAS,Pierre Gasly,AlphaTauri,14.0,11.0,11,+1 Lap,0.0,70.0
+2022,20,23,ALB,Alexander Albon,Williams,17.0,12.0,12,+1 Lap,0.0,70.0
+2022,20,24,ZHO,Guanyu Zhou,Alfa Romeo,12.0,13.0,13,+1 Lap,0.0,70.0
+2022,20,5,VET,Sebastian Vettel,Aston Martin,16.0,14.0,14,+1 Lap,0.0,70.0
+2022,20,18,STR,Lance Stroll,Aston Martin,20.0,15.0,15,+1 Lap,0.0,70.0
+2022,20,47,MSC,Mick Schumacher,Haas F1 Team,15.0,16.0,16,+1 Lap,0.0,70.0
+2022,20,20,MAG,Kevin Magnussen,Haas F1 Team,19.0,17.0,17,+1 Lap,0.0,70.0
+2022,20,6,LAT,Nicholas Latifi,Williams,18.0,18.0,18,+2 Laps,0.0,69.0
+2022,20,14,ALO,Fernando Alonso,Alpine,9.0,19.0,19,Engine,0.0,63.0
+2022,20,22,TSU,Yuki Tsunoda,AlphaTauri,13.0,20.0,R,Collision damage,0.0,50.0
+2022,21,63,RUS,George Russell,Mercedes,1.0,1.0,1,Finished,26.0,71.0
+2022,21,44,HAM,Lewis Hamilton,Mercedes,2.0,2.0,2,Finished,18.0,71.0
+2022,21,55,SAI,Carlos Sainz,Ferrari,7.0,3.0,3,Finished,15.0,71.0
+2022,21,16,LEC,Charles Leclerc,Ferrari,5.0,4.0,4,Finished,12.0,71.0
+2022,21,14,ALO,Fernando Alonso,Alpine,17.0,5.0,5,Finished,10.0,71.0
+2022,21,1,VER,Max Verstappen,Red Bull Racing,3.0,6.0,6,Finished,8.0,71.0
+2022,21,11,PER,Sergio Perez,Red Bull Racing,4.0,7.0,7,Finished,6.0,71.0
+2022,21,31,OCO,Esteban Ocon,Alpine,16.0,8.0,8,Finished,4.0,71.0
+2022,21,77,BOT,Valtteri Bottas,Alfa Romeo,14.0,9.0,9,Finished,2.0,71.0
+2022,21,18,STR,Lance Stroll,Aston Martin,15.0,10.0,10,Finished,1.0,71.0
+2022,21,5,VET,Sebastian Vettel,Aston Martin,9.0,11.0,11,Finished,0.0,71.0
+2022,21,24,ZHO,Guanyu Zhou,Alfa Romeo,13.0,12.0,12,Finished,0.0,71.0
+2022,21,47,MSC,Mick Schumacher,Haas F1 Team,12.0,13.0,13,Finished,0.0,71.0
+2022,21,10,GAS,Pierre Gasly,AlphaTauri,10.0,14.0,14,Finished,0.0,71.0
+2022,21,23,ALB,Alexander Albon,Williams,19.0,15.0,15,Finished,0.0,71.0
+2022,21,6,LAT,Nicholas Latifi,Williams,18.0,16.0,16,Finished,0.0,71.0
+2022,21,22,TSU,Yuki Tsunoda,AlphaTauri,0.0,17.0,17,+1 Lap,0.0,70.0
+2022,21,4,NOR,Lando Norris,McLaren,6.0,18.0,R,Gearbox,0.0,50.0
+2022,21,20,MAG,Kevin Magnussen,Haas F1 Team,8.0,19.0,R,Collision,0.0,0.0
+2022,21,3,RIC,Daniel Ricciardo,McLaren,11.0,20.0,R,Collision,0.0,0.0
+2022,22,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,25.0,58.0
+2022,22,16,LEC,Charles Leclerc,Ferrari,3.0,2.0,2,Finished,18.0,58.0
+2022,22,11,PER,Sergio Perez,Red Bull Racing,2.0,3.0,3,Finished,15.0,58.0
+2022,22,55,SAI,Carlos Sainz,Ferrari,4.0,4.0,4,Finished,12.0,58.0
+2022,22,63,RUS,George Russell,Mercedes,6.0,5.0,5,Finished,10.0,58.0
+2022,22,4,NOR,Lando Norris,McLaren,7.0,6.0,6,Finished,9.0,58.0
+2022,22,31,OCO,Esteban Ocon,Alpine,8.0,7.0,7,Finished,6.0,58.0
+2022,22,18,STR,Lance Stroll,Aston Martin,14.0,8.0,8,Finished,4.0,58.0
+2022,22,3,RIC,Daniel Ricciardo,McLaren,13.0,9.0,9,Finished,2.0,58.0
+2022,22,5,VET,Sebastian Vettel,Aston Martin,9.0,10.0,10,Finished,1.0,58.0
+2022,22,22,TSU,Yuki Tsunoda,AlphaTauri,11.0,11.0,11,Finished,0.0,58.0
+2022,22,24,ZHO,Guanyu Zhou,Alfa Romeo,15.0,12.0,12,+1 Lap,0.0,57.0
+2022,22,23,ALB,Alexander Albon,Williams,19.0,13.0,13,+1 Lap,0.0,57.0
+2022,22,10,GAS,Pierre Gasly,AlphaTauri,17.0,14.0,14,+1 Lap,0.0,57.0
+2022,22,77,BOT,Valtteri Bottas,Alfa Romeo,18.0,15.0,15,+1 Lap,0.0,57.0
+2022,22,47,MSC,Mick Schumacher,Haas F1 Team,12.0,16.0,16,+1 Lap,0.0,57.0
+2022,22,20,MAG,Kevin Magnussen,Haas F1 Team,16.0,17.0,17,+1 Lap,0.0,57.0
+2022,22,44,HAM,Lewis Hamilton,Mercedes,5.0,18.0,18,Hydraulics,0.0,55.0
+2022,22,6,LAT,Nicholas Latifi,Williams,20.0,19.0,19,Collision damage,0.0,55.0
+2022,22,14,ALO,Fernando Alonso,Alpine,10.0,20.0,R,Water leak,0.0,27.0

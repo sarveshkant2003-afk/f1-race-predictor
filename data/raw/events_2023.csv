@@ -1,0 +1,23 @@
+season,round,event_name,location,country,event_date,event_format,is_sprint_weekend,is_street_circuit
+2023,1,Bahrain Grand Prix,Sakhir,Bahrain,2023-03-05,conventional,0,0
+2023,2,Saudi Arabian Grand Prix,Jeddah,Saudi Arabia,2023-03-19,conventional,0,1
+2023,3,Australian Grand Prix,Melbourne,Australia,2023-04-02,conventional,0,1
+2023,4,Azerbaijan Grand Prix,Baku,Azerbaijan,2023-04-30,sprint_shootout,1,1
+2023,5,Miami Grand Prix,Miami,United States,2023-05-07,conventional,0,1
+2023,6,Monaco Grand Prix,Monaco,Monaco,2023-05-28,conventional,0,1
+2023,7,Spanish Grand Prix,Barcelona,Spain,2023-06-04,conventional,0,0
+2023,8,Canadian Grand Prix,Montréal,Canada,2023-06-18,conventional,0,1
+2023,9,Austrian Grand Prix,Spielberg,Austria,2023-07-02,sprint_shootout,1,0
+2023,10,British Grand Prix,Silverstone,Great Britain,2023-07-09,conventional,0,0
+2023,11,Hungarian Grand Prix,Budapest,Hungary,2023-07-23,conventional,0,0
+2023,12,Belgian Grand Prix,Spa-Francorchamps,Belgium,2023-07-30,sprint_shootout,1,0
+2023,13,Dutch Grand Prix,Zandvoort,Netherlands,2023-08-27,conventional,0,0
+2023,14,Italian Grand Prix,Monza,Italy,2023-09-03,conventional,0,0
+2023,15,Singapore Grand Prix,Marina Bay,Singapore,2023-09-17,conventional,0,0
+2023,16,Japanese Grand Prix,Suzuka,Japan,2023-09-24,conventional,0,0
+2023,17,Qatar Grand Prix,Lusail,Qatar,2023-10-08,sprint_shootout,1,0
+2023,18,United States Grand Prix,Austin,United States,2023-10-22,sprint_shootout,1,0
+2023,19,Mexico City Grand Prix,Mexico City,Mexico,2023-10-29,conventional,0,0
+2023,20,São Paulo Grand Prix,São Paulo,Brazil,2023-11-05,sprint_shootout,1,0
+2023,21,Las Vegas Grand Prix,Las Vegas,United States,2023-11-18,conventional,0,1
+2023,22,Abu Dhabi Grand Prix,Yas Island,Abu Dhabi,2023-11-26,conventional,0,0

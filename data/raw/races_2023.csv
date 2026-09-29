@@ -1,0 +1,441 @@
+season,round,driver_number,driver,driver_name,team,grid_position,finish_position,classified_position,status,points,laps_completed
+2023,1,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,25.0,57.0
+2023,1,11,PER,Sergio Perez,Red Bull Racing,2.0,2.0,2,Finished,18.0,57.0
+2023,1,14,ALO,Fernando Alonso,Aston Martin,5.0,3.0,3,Finished,15.0,57.0
+2023,1,55,SAI,Carlos Sainz,Ferrari,4.0,4.0,4,Finished,12.0,57.0
+2023,1,44,HAM,Lewis Hamilton,Mercedes,7.0,5.0,5,Finished,10.0,57.0
+2023,1,18,STR,Lance Stroll,Aston Martin,8.0,6.0,6,Finished,8.0,57.0
+2023,1,63,RUS,George Russell,Mercedes,6.0,7.0,7,Finished,6.0,57.0
+2023,1,77,BOT,Valtteri Bottas,Alfa Romeo,12.0,8.0,8,Finished,4.0,57.0
+2023,1,10,GAS,Pierre Gasly,Alpine,20.0,9.0,9,Finished,2.0,57.0
+2023,1,23,ALB,Alexander Albon,Williams,15.0,10.0,10,Finished,1.0,57.0
+2023,1,22,TSU,Yuki Tsunoda,AlphaTauri,14.0,11.0,11,Finished,0.0,57.0
+2023,1,2,SAR,Logan Sargeant,Williams,16.0,12.0,12,Lapped,0.0,56.0
+2023,1,20,MAG,Kevin Magnussen,Haas F1 Team,17.0,13.0,13,Lapped,0.0,56.0
+2023,1,21,DEV,Nyck De Vries,AlphaTauri,19.0,14.0,14,Lapped,0.0,56.0
+2023,1,27,HUL,Nico Hulkenberg,Haas F1 Team,10.0,15.0,15,Lapped,0.0,56.0
+2023,1,24,ZHO,Guanyu Zhou,Alfa Romeo,13.0,16.0,16,Lapped,0.0,56.0
+2023,1,4,NOR,Lando Norris,McLaren,11.0,17.0,17,Lapped,0.0,55.0
+2023,1,31,OCO,Esteban Ocon,Alpine,9.0,18.0,R,Retired,0.0,41.0
+2023,1,16,LEC,Charles Leclerc,Ferrari,3.0,19.0,R,Retired,0.0,39.0
+2023,1,81,PIA,Oscar Piastri,McLaren,18.0,20.0,R,Retired,0.0,13.0
+2023,2,11,PER,Sergio Perez,Red Bull Racing,1.0,1.0,1,Finished,25.0,50.0
+2023,2,1,VER,Max Verstappen,Red Bull Racing,15.0,2.0,2,Finished,19.0,50.0
+2023,2,14,ALO,Fernando Alonso,Aston Martin,2.0,3.0,3,Finished,15.0,50.0
+2023,2,63,RUS,George Russell,Mercedes,3.0,4.0,4,Finished,12.0,50.0
+2023,2,44,HAM,Lewis Hamilton,Mercedes,7.0,5.0,5,Finished,10.0,50.0
+2023,2,55,SAI,Carlos Sainz,Ferrari,4.0,6.0,6,Finished,8.0,50.0
+2023,2,16,LEC,Charles Leclerc,Ferrari,12.0,7.0,7,Finished,6.0,50.0
+2023,2,31,OCO,Esteban Ocon,Alpine,6.0,8.0,8,Finished,4.0,50.0
+2023,2,10,GAS,Pierre Gasly,Alpine,9.0,9.0,9,Finished,2.0,50.0
+2023,2,20,MAG,Kevin Magnussen,Haas F1 Team,13.0,10.0,10,Finished,1.0,50.0
+2023,2,22,TSU,Yuki Tsunoda,AlphaTauri,16.0,11.0,11,Finished,0.0,50.0
+2023,2,27,HUL,Nico Hulkenberg,Haas F1 Team,10.0,12.0,12,Finished,0.0,50.0
+2023,2,24,ZHO,Guanyu Zhou,Alfa Romeo,11.0,13.0,13,Finished,0.0,50.0
+2023,2,21,DEV,Nyck De Vries,AlphaTauri,18.0,14.0,14,Finished,0.0,50.0
+2023,2,81,PIA,Oscar Piastri,McLaren,8.0,15.0,15,Finished,0.0,50.0
+2023,2,2,SAR,Logan Sargeant,Williams,20.0,16.0,16,Finished,0.0,50.0
+2023,2,4,NOR,Lando Norris,McLaren,19.0,17.0,17,Finished,0.0,50.0
+2023,2,77,BOT,Valtteri Bottas,Alfa Romeo,14.0,18.0,18,Lapped,0.0,49.0
+2023,2,23,ALB,Alexander Albon,Williams,17.0,19.0,R,Retired,0.0,27.0
+2023,2,18,STR,Lance Stroll,Aston Martin,5.0,20.0,R,Retired,0.0,16.0
+2023,3,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,25.0,58.0
+2023,3,44,HAM,Lewis Hamilton,Mercedes,3.0,2.0,2,Finished,18.0,58.0
+2023,3,14,ALO,Fernando Alonso,Aston Martin,4.0,3.0,3,Finished,15.0,58.0
+2023,3,18,STR,Lance Stroll,Aston Martin,6.0,4.0,4,Finished,12.0,58.0
+2023,3,11,PER,Sergio Perez,Red Bull Racing,20.0,5.0,5,Finished,11.0,58.0
+2023,3,4,NOR,Lando Norris,McLaren,13.0,6.0,6,Finished,8.0,58.0
+2023,3,27,HUL,Nico Hulkenberg,Haas F1 Team,10.0,7.0,7,Finished,6.0,58.0
+2023,3,81,PIA,Oscar Piastri,McLaren,16.0,8.0,8,Finished,4.0,58.0
+2023,3,24,ZHO,Guanyu Zhou,Alfa Romeo,17.0,9.0,9,Finished,2.0,58.0
+2023,3,22,TSU,Yuki Tsunoda,AlphaTauri,12.0,10.0,10,Finished,1.0,58.0
+2023,3,77,BOT,Valtteri Bottas,Alfa Romeo,19.0,11.0,11,Finished,0.0,58.0
+2023,3,55,SAI,Carlos Sainz,Ferrari,5.0,12.0,12,Finished,0.0,58.0
+2023,3,10,GAS,Pierre Gasly,Alpine,9.0,13.0,13,Retired,0.0,56.0
+2023,3,31,OCO,Esteban Ocon,Alpine,11.0,14.0,14,Retired,0.0,56.0
+2023,3,21,DEV,Nyck De Vries,AlphaTauri,15.0,15.0,15,Retired,0.0,56.0
+2023,3,2,SAR,Logan Sargeant,Williams,18.0,16.0,16,Retired,0.0,56.0
+2023,3,20,MAG,Kevin Magnussen,Haas F1 Team,14.0,17.0,17,Retired,0.0,52.0
+2023,3,63,RUS,George Russell,Mercedes,2.0,18.0,R,Retired,0.0,17.0
+2023,3,23,ALB,Alexander Albon,Williams,8.0,19.0,R,Retired,0.0,6.0
+2023,3,16,LEC,Charles Leclerc,Ferrari,7.0,20.0,R,Retired,0.0,0.0
+2023,4,11,PER,Sergio Perez,Red Bull Racing,3.0,1.0,1,Finished,25.0,51.0
+2023,4,1,VER,Max Verstappen,Red Bull Racing,2.0,2.0,2,Finished,18.0,51.0
+2023,4,16,LEC,Charles Leclerc,Ferrari,1.0,3.0,3,Finished,15.0,51.0
+2023,4,14,ALO,Fernando Alonso,Aston Martin,6.0,4.0,4,Finished,12.0,51.0
+2023,4,55,SAI,Carlos Sainz,Ferrari,4.0,5.0,5,Finished,10.0,51.0
+2023,4,44,HAM,Lewis Hamilton,Mercedes,5.0,6.0,6,Finished,8.0,51.0
+2023,4,18,STR,Lance Stroll,Aston Martin,9.0,7.0,7,Finished,6.0,51.0
+2023,4,63,RUS,George Russell,Mercedes,11.0,8.0,8,Finished,5.0,51.0
+2023,4,4,NOR,Lando Norris,McLaren,7.0,9.0,9,Finished,2.0,51.0
+2023,4,22,TSU,Yuki Tsunoda,AlphaTauri,8.0,10.0,10,Finished,1.0,51.0
+2023,4,81,PIA,Oscar Piastri,McLaren,10.0,11.0,11,Finished,0.0,51.0
+2023,4,23,ALB,Alexander Albon,Williams,12.0,12.0,12,Finished,0.0,51.0
+2023,4,20,MAG,Kevin Magnussen,Haas F1 Team,16.0,13.0,13,Finished,0.0,51.0
+2023,4,10,GAS,Pierre Gasly,Alpine,17.0,14.0,14,Finished,0.0,51.0
+2023,4,31,OCO,Esteban Ocon,Alpine,19.0,15.0,15,Finished,0.0,51.0
+2023,4,2,SAR,Logan Sargeant,Williams,14.0,16.0,16,Finished,0.0,51.0
+2023,4,27,HUL,Nico Hulkenberg,Haas F1 Team,20.0,17.0,17,Lapped,0.0,50.0
+2023,4,77,BOT,Valtteri Bottas,Alfa Romeo,13.0,18.0,18,Lapped,0.0,50.0
+2023,4,24,ZHO,Guanyu Zhou,Alfa Romeo,15.0,19.0,R,Retired,0.0,36.0
+2023,4,21,DEV,Nyck De Vries,AlphaTauri,18.0,20.0,R,Retired,0.0,9.0
+2023,5,1,VER,Max Verstappen,Red Bull Racing,9.0,1.0,1,Finished,26.0,57.0
+2023,5,11,PER,Sergio Perez,Red Bull Racing,1.0,2.0,2,Finished,18.0,57.0
+2023,5,14,ALO,Fernando Alonso,Aston Martin,2.0,3.0,3,Finished,15.0,57.0
+2023,5,63,RUS,George Russell,Mercedes,6.0,4.0,4,Finished,12.0,57.0
+2023,5,55,SAI,Carlos Sainz,Ferrari,3.0,5.0,5,Finished,10.0,57.0
+2023,5,44,HAM,Lewis Hamilton,Mercedes,13.0,6.0,6,Finished,8.0,57.0
+2023,5,16,LEC,Charles Leclerc,Ferrari,7.0,7.0,7,Finished,6.0,57.0
+2023,5,10,GAS,Pierre Gasly,Alpine,5.0,8.0,8,Finished,4.0,57.0
+2023,5,31,OCO,Esteban Ocon,Alpine,8.0,9.0,9,Finished,2.0,57.0
+2023,5,20,MAG,Kevin Magnussen,Haas F1 Team,4.0,10.0,10,Finished,1.0,57.0
+2023,5,22,TSU,Yuki Tsunoda,AlphaTauri,17.0,11.0,11,Finished,0.0,57.0
+2023,5,18,STR,Lance Stroll,Aston Martin,18.0,12.0,12,Finished,0.0,57.0
+2023,5,77,BOT,Valtteri Bottas,Alfa Romeo,10.0,13.0,13,Finished,0.0,57.0
+2023,5,23,ALB,Alexander Albon,Williams,11.0,14.0,14,Finished,0.0,57.0
+2023,5,27,HUL,Nico Hulkenberg,Haas F1 Team,12.0,15.0,15,Finished,0.0,57.0
+2023,5,24,ZHO,Guanyu Zhou,Alfa Romeo,14.0,16.0,16,Finished,0.0,57.0
+2023,5,4,NOR,Lando Norris,McLaren,16.0,17.0,17,Finished,0.0,57.0
+2023,5,21,DEV,Nyck De Vries,AlphaTauri,15.0,18.0,18,Finished,0.0,57.0
+2023,5,81,PIA,Oscar Piastri,McLaren,19.0,19.0,19,Lapped,0.0,56.0
+2023,5,2,SAR,Logan Sargeant,Williams,20.0,20.0,20,Lapped,0.0,56.0
+2023,6,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,25.0,78.0
+2023,6,14,ALO,Fernando Alonso,Aston Martin,2.0,2.0,2,Finished,18.0,78.0
+2023,6,31,OCO,Esteban Ocon,Alpine,3.0,3.0,3,Finished,15.0,78.0
+2023,6,44,HAM,Lewis Hamilton,Mercedes,5.0,4.0,4,Finished,13.0,78.0
+2023,6,63,RUS,George Russell,Mercedes,8.0,5.0,5,Finished,10.0,78.0
+2023,6,16,LEC,Charles Leclerc,Ferrari,6.0,6.0,6,Finished,8.0,78.0
+2023,6,10,GAS,Pierre Gasly,Alpine,7.0,7.0,7,Finished,6.0,78.0
+2023,6,55,SAI,Carlos Sainz,Ferrari,4.0,8.0,8,Finished,4.0,78.0
+2023,6,4,NOR,Lando Norris,McLaren,10.0,9.0,9,Lapped,2.0,77.0
+2023,6,81,PIA,Oscar Piastri,McLaren,11.0,10.0,10,Lapped,1.0,77.0
+2023,6,77,BOT,Valtteri Bottas,Alfa Romeo,15.0,11.0,11,Lapped,0.0,77.0
+2023,6,21,DEV,Nyck De Vries,AlphaTauri,12.0,12.0,12,Lapped,0.0,77.0
+2023,6,24,ZHO,Guanyu Zhou,Alfa Romeo,19.0,13.0,13,Lapped,0.0,77.0
+2023,6,23,ALB,Alexander Albon,Williams,13.0,14.0,14,Lapped,0.0,77.0
+2023,6,22,TSU,Yuki Tsunoda,AlphaTauri,9.0,15.0,15,Lapped,0.0,76.0
+2023,6,11,PER,Sergio Perez,Red Bull Racing,20.0,16.0,16,Lapped,0.0,76.0
+2023,6,27,HUL,Nico Hulkenberg,Haas F1 Team,18.0,17.0,17,Lapped,0.0,76.0
+2023,6,2,SAR,Logan Sargeant,Williams,16.0,18.0,18,Lapped,0.0,76.0
+2023,6,20,MAG,Kevin Magnussen,Haas F1 Team,17.0,19.0,19,Retired,0.0,70.0
+2023,6,18,STR,Lance Stroll,Aston Martin,14.0,20.0,R,Retired,0.0,53.0
+2023,7,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,26.0,66.0
+2023,7,44,HAM,Lewis Hamilton,Mercedes,4.0,2.0,2,Finished,18.0,66.0
+2023,7,63,RUS,George Russell,Mercedes,12.0,3.0,3,Finished,15.0,66.0
+2023,7,11,PER,Sergio Perez,Red Bull Racing,11.0,4.0,4,Finished,12.0,66.0
+2023,7,55,SAI,Carlos Sainz,Ferrari,2.0,5.0,5,Finished,10.0,66.0
+2023,7,18,STR,Lance Stroll,Aston Martin,5.0,6.0,6,Finished,8.0,66.0
+2023,7,14,ALO,Fernando Alonso,Aston Martin,8.0,7.0,7,Finished,6.0,66.0
+2023,7,31,OCO,Esteban Ocon,Alpine,6.0,8.0,8,Finished,4.0,66.0
+2023,7,24,ZHO,Guanyu Zhou,Alfa Romeo,13.0,9.0,9,Finished,2.0,66.0
+2023,7,10,GAS,Pierre Gasly,Alpine,10.0,10.0,10,Finished,1.0,66.0
+2023,7,16,LEC,Charles Leclerc,Ferrari,19.0,11.0,11,Finished,0.0,66.0
+2023,7,22,TSU,Yuki Tsunoda,AlphaTauri,15.0,12.0,12,Finished,0.0,66.0
+2023,7,81,PIA,Oscar Piastri,McLaren,9.0,13.0,13,Lapped,0.0,65.0
+2023,7,21,DEV,Nyck De Vries,AlphaTauri,14.0,14.0,14,Lapped,0.0,65.0
+2023,7,27,HUL,Nico Hulkenberg,Haas F1 Team,7.0,15.0,15,Lapped,0.0,65.0
+2023,7,23,ALB,Alexander Albon,Williams,18.0,16.0,16,Lapped,0.0,65.0
+2023,7,4,NOR,Lando Norris,McLaren,3.0,17.0,17,Lapped,0.0,65.0
+2023,7,20,MAG,Kevin Magnussen,Haas F1 Team,17.0,18.0,18,Lapped,0.0,65.0
+2023,7,77,BOT,Valtteri Bottas,Alfa Romeo,16.0,19.0,19,Lapped,0.0,65.0
+2023,7,2,SAR,Logan Sargeant,Williams,20.0,20.0,20,Lapped,0.0,65.0
+2023,8,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,25.0,70.0
+2023,8,14,ALO,Fernando Alonso,Aston Martin,2.0,2.0,2,Finished,18.0,70.0
+2023,8,44,HAM,Lewis Hamilton,Mercedes,3.0,3.0,3,Finished,15.0,70.0
+2023,8,16,LEC,Charles Leclerc,Ferrari,10.0,4.0,4,Finished,12.0,70.0
+2023,8,55,SAI,Carlos Sainz,Ferrari,11.0,5.0,5,Finished,10.0,70.0
+2023,8,11,PER,Sergio Perez,Red Bull Racing,12.0,6.0,6,Finished,9.0,70.0
+2023,8,23,ALB,Alexander Albon,Williams,9.0,7.0,7,Finished,6.0,70.0
+2023,8,31,OCO,Esteban Ocon,Alpine,6.0,8.0,8,Finished,4.0,70.0
+2023,8,18,STR,Lance Stroll,Aston Martin,16.0,9.0,9,Finished,2.0,70.0
+2023,8,77,BOT,Valtteri Bottas,Alfa Romeo,14.0,10.0,10,Finished,1.0,70.0
+2023,8,81,PIA,Oscar Piastri,McLaren,8.0,11.0,11,Finished,0.0,70.0
+2023,8,10,GAS,Pierre Gasly,Alpine,15.0,12.0,12,Finished,0.0,70.0
+2023,8,4,NOR,Lando Norris,McLaren,7.0,13.0,13,Finished,0.0,70.0
+2023,8,22,TSU,Yuki Tsunoda,AlphaTauri,19.0,14.0,14,Finished,0.0,70.0
+2023,8,27,HUL,Nico Hulkenberg,Haas F1 Team,5.0,15.0,15,Lapped,0.0,69.0
+2023,8,24,ZHO,Guanyu Zhou,Alfa Romeo,20.0,16.0,16,Lapped,0.0,69.0
+2023,8,20,MAG,Kevin Magnussen,Haas F1 Team,13.0,17.0,17,Lapped,0.0,69.0
+2023,8,21,DEV,Nyck De Vries,AlphaTauri,17.0,18.0,18,Lapped,0.0,69.0
+2023,8,63,RUS,George Russell,Mercedes,4.0,19.0,R,Retired,0.0,53.0
+2023,8,2,SAR,Logan Sargeant,Williams,18.0,20.0,R,Retired,0.0,6.0
+2023,9,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,26.0,71.0
+2023,9,16,LEC,Charles Leclerc,Ferrari,2.0,2.0,2,Finished,18.0,71.0
+2023,9,11,PER,Sergio Perez,Red Bull Racing,15.0,3.0,3,Finished,15.0,71.0
+2023,9,4,NOR,Lando Norris,McLaren,4.0,4.0,4,Finished,12.0,71.0
+2023,9,14,ALO,Fernando Alonso,Aston Martin,7.0,5.0,5,Finished,10.0,71.0
+2023,9,55,SAI,Carlos Sainz,Ferrari,3.0,6.0,6,Finished,8.0,71.0
+2023,9,63,RUS,George Russell,Mercedes,11.0,7.0,7,Finished,6.0,71.0
+2023,9,44,HAM,Lewis Hamilton,Mercedes,5.0,8.0,8,Finished,4.0,71.0
+2023,9,18,STR,Lance Stroll,Aston Martin,6.0,9.0,9,Finished,2.0,71.0
+2023,9,10,GAS,Pierre Gasly,Alpine,9.0,10.0,10,Finished,1.0,71.0
+2023,9,23,ALB,Alexander Albon,Williams,10.0,11.0,11,Finished,0.0,71.0
+2023,9,24,ZHO,Guanyu Zhou,Alfa Romeo,17.0,12.0,12,Lapped,0.0,70.0
+2023,9,2,SAR,Logan Sargeant,Williams,18.0,13.0,13,Lapped,0.0,70.0
+2023,9,31,OCO,Esteban Ocon,Alpine,12.0,14.0,14,Lapped,0.0,70.0
+2023,9,77,BOT,Valtteri Bottas,Alfa Romeo,14.0,15.0,15,Lapped,0.0,70.0
+2023,9,81,PIA,Oscar Piastri,McLaren,13.0,16.0,16,Lapped,0.0,70.0
+2023,9,21,DEV,Nyck De Vries,AlphaTauri,20.0,17.0,17,Lapped,0.0,70.0
+2023,9,20,MAG,Kevin Magnussen,Haas F1 Team,19.0,18.0,18,Lapped,0.0,70.0
+2023,9,22,TSU,Yuki Tsunoda,AlphaTauri,16.0,19.0,19,Lapped,0.0,70.0
+2023,9,27,HUL,Nico Hulkenberg,Haas F1 Team,8.0,20.0,R,Retired,0.0,12.0
+2023,10,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,26.0,52.0
+2023,10,4,NOR,Lando Norris,McLaren,2.0,2.0,2,Finished,18.0,52.0
+2023,10,44,HAM,Lewis Hamilton,Mercedes,7.0,3.0,3,Finished,15.0,52.0
+2023,10,81,PIA,Oscar Piastri,McLaren,3.0,4.0,4,Finished,12.0,52.0
+2023,10,63,RUS,George Russell,Mercedes,6.0,5.0,5,Finished,10.0,52.0
+2023,10,11,PER,Sergio Perez,Red Bull Racing,15.0,6.0,6,Finished,8.0,52.0
+2023,10,14,ALO,Fernando Alonso,Aston Martin,9.0,7.0,7,Finished,6.0,52.0
+2023,10,23,ALB,Alexander Albon,Williams,8.0,8.0,8,Finished,4.0,52.0
+2023,10,16,LEC,Charles Leclerc,Ferrari,4.0,9.0,9,Finished,2.0,52.0
+2023,10,55,SAI,Carlos Sainz,Ferrari,5.0,10.0,10,Finished,1.0,52.0
+2023,10,2,SAR,Logan Sargeant,Williams,14.0,11.0,11,Finished,0.0,52.0
+2023,10,77,BOT,Valtteri Bottas,Alfa Romeo,20.0,12.0,12,Finished,0.0,52.0
+2023,10,27,HUL,Nico Hulkenberg,Haas F1 Team,11.0,13.0,13,Finished,0.0,52.0
+2023,10,18,STR,Lance Stroll,Aston Martin,12.0,14.0,14,Finished,0.0,52.0
+2023,10,24,ZHO,Guanyu Zhou,Alfa Romeo,17.0,15.0,15,Finished,0.0,52.0
+2023,10,22,TSU,Yuki Tsunoda,AlphaTauri,16.0,16.0,16,Finished,0.0,52.0
+2023,10,21,DEV,Nyck De Vries,AlphaTauri,18.0,17.0,17,Finished,0.0,52.0
+2023,10,10,GAS,Pierre Gasly,Alpine,10.0,18.0,18,Retired,0.0,46.0
+2023,10,20,MAG,Kevin Magnussen,Haas F1 Team,19.0,19.0,R,Retired,0.0,31.0
+2023,10,31,OCO,Esteban Ocon,Alpine,13.0,20.0,R,Retired,0.0,9.0
+2023,11,1,VER,Max Verstappen,Red Bull Racing,2.0,1.0,1,Finished,26.0,70.0
+2023,11,4,NOR,Lando Norris,McLaren,3.0,2.0,2,Finished,18.0,70.0
+2023,11,11,PER,Sergio Perez,Red Bull Racing,9.0,3.0,3,Finished,15.0,70.0
+2023,11,44,HAM,Lewis Hamilton,Mercedes,1.0,4.0,4,Finished,12.0,70.0
+2023,11,81,PIA,Oscar Piastri,McLaren,4.0,5.0,5,Finished,10.0,70.0
+2023,11,63,RUS,George Russell,Mercedes,18.0,6.0,6,Finished,8.0,70.0
+2023,11,16,LEC,Charles Leclerc,Ferrari,6.0,7.0,7,Finished,6.0,70.0
+2023,11,55,SAI,Carlos Sainz,Ferrari,11.0,8.0,8,Finished,4.0,70.0
+2023,11,14,ALO,Fernando Alonso,Aston Martin,8.0,9.0,9,Finished,2.0,70.0
+2023,11,18,STR,Lance Stroll,Aston Martin,14.0,10.0,10,Lapped,1.0,69.0
+2023,11,23,ALB,Alexander Albon,Williams,16.0,11.0,11,Lapped,0.0,69.0
+2023,11,77,BOT,Valtteri Bottas,Alfa Romeo,7.0,12.0,12,Lapped,0.0,69.0
+2023,11,3,RIC,Daniel Ricciardo,AlphaTauri,13.0,13.0,13,Lapped,0.0,69.0
+2023,11,27,HUL,Nico Hulkenberg,Haas F1 Team,10.0,14.0,14,Lapped,0.0,69.0
+2023,11,22,TSU,Yuki Tsunoda,AlphaTauri,17.0,15.0,15,Lapped,0.0,69.0
+2023,11,24,ZHO,Guanyu Zhou,Alfa Romeo,5.0,16.0,16,Lapped,0.0,69.0
+2023,11,20,MAG,Kevin Magnussen,Haas F1 Team,19.0,17.0,17,Lapped,0.0,69.0
+2023,11,2,SAR,Logan Sargeant,Williams,20.0,18.0,18,Retired,0.0,67.0
+2023,11,31,OCO,Esteban Ocon,Alpine,12.0,19.0,R,Retired,0.0,2.0
+2023,11,10,GAS,Pierre Gasly,Alpine,15.0,20.0,R,Retired,0.0,1.0
+2023,12,1,VER,Max Verstappen,Red Bull Racing,6.0,1.0,1,Finished,25.0,44.0
+2023,12,11,PER,Sergio Perez,Red Bull Racing,2.0,2.0,2,Finished,18.0,44.0
+2023,12,16,LEC,Charles Leclerc,Ferrari,1.0,3.0,3,Finished,15.0,44.0
+2023,12,44,HAM,Lewis Hamilton,Mercedes,3.0,4.0,4,Finished,13.0,44.0
+2023,12,14,ALO,Fernando Alonso,Aston Martin,9.0,5.0,5,Finished,10.0,44.0
+2023,12,63,RUS,George Russell,Mercedes,8.0,6.0,6,Finished,8.0,44.0
+2023,12,4,NOR,Lando Norris,McLaren,7.0,7.0,7,Finished,6.0,44.0
+2023,12,31,OCO,Esteban Ocon,Alpine,14.0,8.0,8,Finished,4.0,44.0
+2023,12,18,STR,Lance Stroll,Aston Martin,10.0,9.0,9,Finished,2.0,44.0
+2023,12,22,TSU,Yuki Tsunoda,AlphaTauri,11.0,10.0,10,Finished,1.0,44.0
+2023,12,10,GAS,Pierre Gasly,Alpine,12.0,11.0,11,Finished,0.0,44.0
+2023,12,77,BOT,Valtteri Bottas,Alfa Romeo,13.0,12.0,12,Finished,0.0,44.0
+2023,12,24,ZHO,Guanyu Zhou,Alfa Romeo,17.0,13.0,13,Finished,0.0,44.0
+2023,12,23,ALB,Alexander Albon,Williams,15.0,14.0,14,Finished,0.0,44.0
+2023,12,20,MAG,Kevin Magnussen,Haas F1 Team,16.0,15.0,15,Finished,0.0,44.0
+2023,12,3,RIC,Daniel Ricciardo,AlphaTauri,19.0,16.0,16,Finished,0.0,44.0
+2023,12,2,SAR,Logan Sargeant,Williams,18.0,17.0,17,Finished,0.0,44.0
+2023,12,27,HUL,Nico Hulkenberg,Haas F1 Team,20.0,18.0,18,Finished,0.0,44.0
+2023,12,55,SAI,Carlos Sainz,Ferrari,4.0,19.0,R,Retired,0.0,23.0
+2023,12,81,PIA,Oscar Piastri,McLaren,5.0,20.0,R,Retired,0.0,0.0
+2023,13,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,25.0,72.0
+2023,13,14,ALO,Fernando Alonso,Aston Martin,5.0,2.0,2,Finished,19.0,72.0
+2023,13,10,GAS,Pierre Gasly,Alpine,12.0,3.0,3,Finished,15.0,72.0
+2023,13,11,PER,Sergio Perez,Red Bull Racing,7.0,4.0,4,Finished,12.0,72.0
+2023,13,55,SAI,Carlos Sainz,Ferrari,6.0,5.0,5,Finished,10.0,72.0
+2023,13,44,HAM,Lewis Hamilton,Mercedes,13.0,6.0,6,Finished,8.0,72.0
+2023,13,4,NOR,Lando Norris,McLaren,2.0,7.0,7,Finished,6.0,72.0
+2023,13,23,ALB,Alexander Albon,Williams,4.0,8.0,8,Finished,4.0,72.0
+2023,13,81,PIA,Oscar Piastri,McLaren,8.0,9.0,9,Finished,2.0,72.0
+2023,13,31,OCO,Esteban Ocon,Alpine,16.0,10.0,10,Finished,1.0,72.0
+2023,13,18,STR,Lance Stroll,Aston Martin,11.0,11.0,11,Finished,0.0,72.0
+2023,13,27,HUL,Nico Hulkenberg,Haas F1 Team,14.0,12.0,12,Finished,0.0,72.0
+2023,13,40,LAW,Liam Lawson,AlphaTauri,19.0,13.0,13,Finished,0.0,72.0
+2023,13,77,BOT,Valtteri Bottas,Alfa Romeo,18.0,14.0,14,Finished,0.0,72.0
+2023,13,22,TSU,Yuki Tsunoda,AlphaTauri,17.0,15.0,15,Finished,0.0,72.0
+2023,13,20,MAG,Kevin Magnussen,Haas F1 Team,0.0,16.0,16,Finished,0.0,72.0
+2023,13,63,RUS,George Russell,Mercedes,3.0,17.0,17,Finished,0.0,72.0
+2023,13,24,ZHO,Guanyu Zhou,Alfa Romeo,15.0,18.0,R,Accident,0.0,62.0
+2023,13,16,LEC,Charles Leclerc,Ferrari,9.0,19.0,R,Undertray,0.0,41.0
+2023,13,2,SAR,Logan Sargeant,Williams,10.0,20.0,R,Accident,0.0,14.0
+2023,14,1,VER,Max Verstappen,Red Bull Racing,2.0,1.0,1,Finished,25.0,51.0
+2023,14,11,PER,Sergio Perez,Red Bull Racing,5.0,2.0,2,Finished,18.0,51.0
+2023,14,55,SAI,Carlos Sainz,Ferrari,1.0,3.0,3,Finished,15.0,51.0
+2023,14,16,LEC,Charles Leclerc,Ferrari,3.0,4.0,4,Finished,12.0,51.0
+2023,14,63,RUS,George Russell,Mercedes,4.0,5.0,5,Finished,10.0,51.0
+2023,14,44,HAM,Lewis Hamilton,Mercedes,8.0,6.0,6,Finished,8.0,51.0
+2023,14,23,ALB,Alexander Albon,Williams,6.0,7.0,7,Finished,6.0,51.0
+2023,14,4,NOR,Lando Norris,McLaren,9.0,8.0,8,Finished,4.0,51.0
+2023,14,14,ALO,Fernando Alonso,Aston Martin,10.0,9.0,9,Finished,2.0,51.0
+2023,14,77,BOT,Valtteri Bottas,Alfa Romeo,14.0,10.0,10,Finished,1.0,51.0
+2023,14,40,LAW,Liam Lawson,AlphaTauri,12.0,11.0,11,Finished,0.0,51.0
+2023,14,81,PIA,Oscar Piastri,McLaren,7.0,12.0,12,Finished,0.0,51.0
+2023,14,2,SAR,Logan Sargeant,Williams,15.0,13.0,13,Finished,0.0,51.0
+2023,14,24,ZHO,Guanyu Zhou,Alfa Romeo,16.0,14.0,14,Finished,0.0,51.0
+2023,14,10,GAS,Pierre Gasly,Alpine,17.0,15.0,15,Finished,0.0,51.0
+2023,14,18,STR,Lance Stroll,Aston Martin,20.0,16.0,16,Finished,0.0,51.0
+2023,14,27,HUL,Nico Hulkenberg,Haas F1 Team,13.0,17.0,17,Lapped,0.0,50.0
+2023,14,20,MAG,Kevin Magnussen,Haas F1 Team,19.0,18.0,18,Lapped,0.0,50.0
+2023,14,31,OCO,Esteban Ocon,Alpine,18.0,19.0,R,Retired,0.0,39.0
+2023,14,22,TSU,Yuki Tsunoda,AlphaTauri,11.0,20.0,W,Did not start,0.0,0.0
+2023,15,55,SAI,Carlos Sainz,Ferrari,1.0,1.0,1,Finished,25.0,62.0
+2023,15,4,NOR,Lando Norris,McLaren,4.0,2.0,2,Finished,18.0,62.0
+2023,15,44,HAM,Lewis Hamilton,Mercedes,5.0,3.0,3,Finished,16.0,62.0
+2023,15,16,LEC,Charles Leclerc,Ferrari,3.0,4.0,4,Finished,12.0,62.0
+2023,15,1,VER,Max Verstappen,Red Bull Racing,11.0,5.0,5,Finished,10.0,62.0
+2023,15,10,GAS,Pierre Gasly,Alpine,12.0,6.0,6,Finished,8.0,62.0
+2023,15,81,PIA,Oscar Piastri,McLaren,17.0,7.0,7,Finished,6.0,62.0
+2023,15,11,PER,Sergio Perez,Red Bull Racing,13.0,8.0,8,Finished,4.0,62.0
+2023,15,40,LAW,Liam Lawson,AlphaTauri,10.0,9.0,9,Finished,2.0,62.0
+2023,15,20,MAG,Kevin Magnussen,Haas F1 Team,6.0,10.0,10,Finished,1.0,62.0
+2023,15,23,ALB,Alexander Albon,Williams,14.0,11.0,11,Finished,0.0,62.0
+2023,15,24,ZHO,Guanyu Zhou,Alfa Romeo,19.0,12.0,12,Finished,0.0,62.0
+2023,15,27,HUL,Nico Hulkenberg,Haas F1 Team,9.0,13.0,13,Finished,0.0,62.0
+2023,15,2,SAR,Logan Sargeant,Williams,18.0,14.0,14,Finished,0.0,62.0
+2023,15,14,ALO,Fernando Alonso,Aston Martin,7.0,15.0,15,Finished,0.0,62.0
+2023,15,63,RUS,George Russell,Mercedes,2.0,16.0,16,Retired,0.0,61.0
+2023,15,77,BOT,Valtteri Bottas,Alfa Romeo,16.0,17.0,R,Retired,0.0,51.0
+2023,15,31,OCO,Esteban Ocon,Alpine,8.0,18.0,R,Retired,0.0,42.0
+2023,15,22,TSU,Yuki Tsunoda,AlphaTauri,15.0,19.0,R,Retired,0.0,0.0
+2023,15,18,STR,Lance Stroll,Aston Martin,,,W,Withdrew,0.0,0.0
+2023,16,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,26.0,53.0
+2023,16,4,NOR,Lando Norris,McLaren,3.0,2.0,2,Finished,18.0,53.0
+2023,16,81,PIA,Oscar Piastri,McLaren,2.0,3.0,3,Finished,15.0,53.0
+2023,16,16,LEC,Charles Leclerc,Ferrari,4.0,4.0,4,Finished,12.0,53.0
+2023,16,44,HAM,Lewis Hamilton,Mercedes,7.0,5.0,5,Finished,10.0,53.0
+2023,16,55,SAI,Carlos Sainz,Ferrari,6.0,6.0,6,Finished,8.0,53.0
+2023,16,63,RUS,George Russell,Mercedes,8.0,7.0,7,Finished,6.0,53.0
+2023,16,14,ALO,Fernando Alonso,Aston Martin,10.0,8.0,8,Finished,4.0,53.0
+2023,16,31,OCO,Esteban Ocon,Alpine,14.0,9.0,9,Finished,2.0,53.0
+2023,16,10,GAS,Pierre Gasly,Alpine,12.0,10.0,10,Finished,1.0,53.0
+2023,16,40,LAW,Liam Lawson,AlphaTauri,11.0,11.0,11,Lapped,0.0,52.0
+2023,16,22,TSU,Yuki Tsunoda,AlphaTauri,9.0,12.0,12,Lapped,0.0,52.0
+2023,16,24,ZHO,Guanyu Zhou,Alfa Romeo,19.0,13.0,13,Lapped,0.0,52.0
+2023,16,27,HUL,Nico Hulkenberg,Haas F1 Team,18.0,14.0,14,Lapped,0.0,52.0
+2023,16,20,MAG,Kevin Magnussen,Haas F1 Team,15.0,15.0,15,Lapped,0.0,52.0
+2023,16,23,ALB,Alexander Albon,Williams,13.0,16.0,R,Retired,0.0,26.0
+2023,16,2,SAR,Logan Sargeant,Williams,20.0,17.0,R,Retired,0.0,22.0
+2023,16,18,STR,Lance Stroll,Aston Martin,17.0,18.0,R,Retired,0.0,20.0
+2023,16,11,PER,Sergio Perez,Red Bull Racing,5.0,19.0,R,Retired,0.0,15.0
+2023,16,77,BOT,Valtteri Bottas,Alfa Romeo,16.0,20.0,R,Retired,0.0,7.0
+2023,17,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,26.0,57.0
+2023,17,81,PIA,Oscar Piastri,McLaren,6.0,2.0,2,Finished,18.0,57.0
+2023,17,4,NOR,Lando Norris,McLaren,10.0,3.0,3,Finished,15.0,57.0
+2023,17,63,RUS,George Russell,Mercedes,2.0,4.0,4,Finished,12.0,57.0
+2023,17,16,LEC,Charles Leclerc,Ferrari,5.0,5.0,5,Finished,10.0,57.0
+2023,17,14,ALO,Fernando Alonso,Aston Martin,4.0,6.0,6,Finished,8.0,57.0
+2023,17,31,OCO,Esteban Ocon,Alpine,8.0,7.0,7,Finished,6.0,57.0
+2023,17,77,BOT,Valtteri Bottas,Alfa Romeo,9.0,8.0,8,Finished,4.0,57.0
+2023,17,24,ZHO,Guanyu Zhou,Alfa Romeo,19.0,9.0,9,Finished,2.0,57.0
+2023,17,11,PER,Sergio Perez,Red Bull Racing,20.0,10.0,10,Finished,1.0,57.0
+2023,17,18,STR,Lance Stroll,Aston Martin,16.0,11.0,11,Finished,0.0,57.0
+2023,17,10,GAS,Pierre Gasly,Alpine,7.0,12.0,12,Finished,0.0,57.0
+2023,17,23,ALB,Alexander Albon,Williams,13.0,13.0,13,Finished,0.0,57.0
+2023,17,20,MAG,Kevin Magnussen,Haas F1 Team,18.0,14.0,14,Lapped,0.0,56.0
+2023,17,22,TSU,Yuki Tsunoda,AlphaTauri,11.0,15.0,15,Lapped,0.0,56.0
+2023,17,27,HUL,Nico Hulkenberg,Haas F1 Team,14.0,16.0,16,Lapped,0.0,56.0
+2023,17,40,LAW,Liam Lawson,AlphaTauri,17.0,17.0,17,Lapped,0.0,56.0
+2023,17,2,SAR,Logan Sargeant,Williams,15.0,18.0,R,Retired,0.0,40.0
+2023,17,44,HAM,Lewis Hamilton,Mercedes,3.0,19.0,R,Retired,0.0,0.0
+2023,17,55,SAI,Carlos Sainz,Ferrari,12.0,20.0,W,Did not start,0.0,0.0
+2023,18,1,VER,Max Verstappen,Red Bull Racing,6.0,1.0,1,Finished,25.0,56.0
+2023,18,4,NOR,Lando Norris,McLaren,2.0,2.0,2,Finished,18.0,56.0
+2023,18,55,SAI,Carlos Sainz,Ferrari,4.0,3.0,3,Finished,15.0,56.0
+2023,18,11,PER,Sergio Perez,Red Bull Racing,9.0,4.0,4,Finished,12.0,56.0
+2023,18,63,RUS,George Russell,Mercedes,5.0,5.0,5,Finished,10.0,56.0
+2023,18,10,GAS,Pierre Gasly,Alpine,7.0,6.0,6,Finished,8.0,56.0
+2023,18,18,STR,Lance Stroll,Aston Martin,20.0,7.0,7,Finished,6.0,56.0
+2023,18,22,TSU,Yuki Tsunoda,AlphaTauri,11.0,8.0,8,Finished,5.0,56.0
+2023,18,23,ALB,Alexander Albon,Williams,15.0,9.0,9,Finished,2.0,56.0
+2023,18,2,SAR,Logan Sargeant,Williams,16.0,10.0,10,Finished,1.0,56.0
+2023,18,27,HUL,Nico Hulkenberg,Haas F1 Team,18.0,11.0,11,Finished,0.0,56.0
+2023,18,77,BOT,Valtteri Bottas,Alfa Romeo,13.0,12.0,12,Finished,0.0,56.0
+2023,18,24,ZHO,Guanyu Zhou,Alfa Romeo,12.0,13.0,13,Lapped,0.0,55.0
+2023,18,20,MAG,Kevin Magnussen,Haas F1 Team,17.0,14.0,14,Lapped,0.0,55.0
+2023,18,3,RIC,Daniel Ricciardo,AlphaTauri,14.0,15.0,15,Lapped,0.0,55.0
+2023,18,14,ALO,Fernando Alonso,Aston Martin,19.0,16.0,R,Retired,0.0,49.0
+2023,18,81,PIA,Oscar Piastri,McLaren,10.0,17.0,R,Retired,0.0,10.0
+2023,18,31,OCO,Esteban Ocon,Alpine,8.0,18.0,R,Retired,0.0,6.0
+2023,18,44,HAM,Lewis Hamilton,Mercedes,3.0,19.0,19,Disqualified,0.0,56.0
+2023,18,16,LEC,Charles Leclerc,Ferrari,1.0,20.0,20,Disqualified,0.0,56.0
+2023,19,1,VER,Max Verstappen,Red Bull Racing,3.0,1.0,1,Finished,25.0,71.0
+2023,19,44,HAM,Lewis Hamilton,Mercedes,6.0,2.0,2,Finished,19.0,71.0
+2023,19,16,LEC,Charles Leclerc,Ferrari,1.0,3.0,3,Finished,15.0,71.0
+2023,19,55,SAI,Carlos Sainz,Ferrari,2.0,4.0,4,Finished,12.0,71.0
+2023,19,4,NOR,Lando Norris,McLaren,17.0,5.0,5,Finished,10.0,71.0
+2023,19,63,RUS,George Russell,Mercedes,8.0,6.0,6,Finished,8.0,71.0
+2023,19,3,RIC,Daniel Ricciardo,AlphaTauri,4.0,7.0,7,Finished,6.0,71.0
+2023,19,81,PIA,Oscar Piastri,McLaren,7.0,8.0,8,Finished,4.0,71.0
+2023,19,23,ALB,Alexander Albon,Williams,14.0,9.0,9,Finished,2.0,71.0
+2023,19,31,OCO,Esteban Ocon,Alpine,15.0,10.0,10,Finished,1.0,71.0
+2023,19,10,GAS,Pierre Gasly,Alpine,11.0,11.0,11,Finished,0.0,71.0
+2023,19,22,TSU,Yuki Tsunoda,AlphaTauri,18.0,12.0,12,Finished,0.0,71.0
+2023,19,27,HUL,Nico Hulkenberg,Haas F1 Team,12.0,13.0,13,Finished,0.0,71.0
+2023,19,24,ZHO,Guanyu Zhou,Alfa Romeo,10.0,14.0,14,Finished,0.0,71.0
+2023,19,77,BOT,Valtteri Bottas,Alfa Romeo,9.0,15.0,15,Finished,0.0,71.0
+2023,19,2,SAR,Logan Sargeant,Williams,19.0,16.0,16,Retired,0.0,70.0
+2023,19,18,STR,Lance Stroll,Aston Martin,0.0,17.0,17,Collision damage,0.0,66.0
+2023,19,14,ALO,Fernando Alonso,Aston Martin,13.0,18.0,W,Withdrew,0.0,47.0
+2023,19,20,MAG,Kevin Magnussen,Haas F1 Team,16.0,19.0,R,Accident,0.0,31.0
+2023,19,11,PER,Sergio Perez,Red Bull Racing,5.0,20.0,R,Collision damage,0.0,1.0
+2023,20,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,25.0,71.0
+2023,20,4,NOR,Lando Norris,McLaren,6.0,2.0,2,Finished,19.0,71.0
+2023,20,14,ALO,Fernando Alonso,Aston Martin,4.0,3.0,3,Finished,15.0,71.0
+2023,20,11,PER,Sergio Perez,Red Bull Racing,9.0,4.0,4,Finished,12.0,71.0
+2023,20,18,STR,Lance Stroll,Aston Martin,3.0,5.0,5,Finished,10.0,71.0
+2023,20,55,SAI,Carlos Sainz,Ferrari,7.0,6.0,6,Finished,8.0,71.0
+2023,20,10,GAS,Pierre Gasly,Alpine,15.0,7.0,7,Finished,6.0,71.0
+2023,20,44,HAM,Lewis Hamilton,Mercedes,5.0,8.0,8,Finished,4.0,71.0
+2023,20,22,TSU,Yuki Tsunoda,AlphaTauri,16.0,9.0,9,Finished,2.0,71.0
+2023,20,31,OCO,Esteban Ocon,Alpine,14.0,10.0,10,Lapped,1.0,70.0
+2023,20,2,SAR,Logan Sargeant,Williams,19.0,11.0,11,Lapped,0.0,70.0
+2023,20,27,HUL,Nico Hulkenberg,Haas F1 Team,11.0,12.0,12,Lapped,0.0,70.0
+2023,20,3,RIC,Daniel Ricciardo,AlphaTauri,17.0,13.0,13,Lapped,0.0,70.0
+2023,20,81,PIA,Oscar Piastri,McLaren,10.0,14.0,14,Lapped,0.0,69.0
+2023,20,63,RUS,George Russell,Mercedes,8.0,15.0,R,Retired,0.0,57.0
+2023,20,77,BOT,Valtteri Bottas,Alfa Romeo,18.0,16.0,R,Retired,0.0,39.0
+2023,20,24,ZHO,Guanyu Zhou,Alfa Romeo,20.0,17.0,R,Retired,0.0,22.0
+2023,20,20,MAG,Kevin Magnussen,Haas F1 Team,12.0,18.0,R,Retired,0.0,0.0
+2023,20,23,ALB,Alexander Albon,Williams,13.0,19.0,R,Retired,0.0,0.0
+2023,20,16,LEC,Charles Leclerc,Ferrari,2.0,20.0,W,Did not start,0.0,0.0
+2023,21,1,VER,Max Verstappen,Red Bull Racing,2.0,1.0,1,Finished,25.0,50.0
+2023,21,16,LEC,Charles Leclerc,Ferrari,1.0,2.0,2,Finished,18.0,50.0
+2023,21,11,PER,Sergio Perez,Red Bull Racing,11.0,3.0,3,Finished,15.0,50.0
+2023,21,31,OCO,Esteban Ocon,Alpine,16.0,4.0,4,Finished,12.0,50.0
+2023,21,18,STR,Lance Stroll,Aston Martin,19.0,5.0,5,Finished,10.0,50.0
+2023,21,55,SAI,Carlos Sainz,Ferrari,12.0,6.0,6,Finished,8.0,50.0
+2023,21,44,HAM,Lewis Hamilton,Mercedes,10.0,7.0,7,Finished,6.0,50.0
+2023,21,63,RUS,George Russell,Mercedes,3.0,8.0,8,Finished,4.0,50.0
+2023,21,14,ALO,Fernando Alonso,Aston Martin,9.0,9.0,9,Finished,2.0,50.0
+2023,21,81,PIA,Oscar Piastri,McLaren,18.0,10.0,10,Finished,2.0,50.0
+2023,21,10,GAS,Pierre Gasly,Alpine,4.0,11.0,11,Finished,0.0,50.0
+2023,21,23,ALB,Alexander Albon,Williams,5.0,12.0,12,Finished,0.0,50.0
+2023,21,20,MAG,Kevin Magnussen,Haas F1 Team,8.0,13.0,13,Finished,0.0,50.0
+2023,21,3,RIC,Daniel Ricciardo,AlphaTauri,14.0,14.0,14,Finished,0.0,50.0
+2023,21,24,ZHO,Guanyu Zhou,Alfa Romeo,17.0,15.0,15,Finished,0.0,50.0
+2023,21,2,SAR,Logan Sargeant,Williams,6.0,16.0,16,Finished,0.0,50.0
+2023,21,77,BOT,Valtteri Bottas,Alfa Romeo,7.0,17.0,17,Finished,0.0,50.0
+2023,21,22,TSU,Yuki Tsunoda,AlphaTauri,20.0,18.0,18,Retired,0.0,46.0
+2023,21,27,HUL,Nico Hulkenberg,Haas F1 Team,13.0,19.0,19,Retired,0.0,45.0
+2023,21,4,NOR,Lando Norris,McLaren,15.0,20.0,R,Retired,0.0,2.0
+2023,22,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,1,Finished,26.0,58.0
+2023,22,16,LEC,Charles Leclerc,Ferrari,2.0,2.0,2,Finished,18.0,58.0
+2023,22,63,RUS,George Russell,Mercedes,4.0,3.0,3,Finished,15.0,58.0
+2023,22,11,PER,Sergio Perez,Red Bull Racing,9.0,4.0,4,Finished,12.0,58.0
+2023,22,4,NOR,Lando Norris,McLaren,5.0,5.0,5,Finished,10.0,58.0
+2023,22,81,PIA,Oscar Piastri,McLaren,3.0,6.0,6,Finished,8.0,58.0
+2023,22,14,ALO,Fernando Alonso,Aston Martin,7.0,7.0,7,Finished,6.0,58.0
+2023,22,22,TSU,Yuki Tsunoda,AlphaTauri,6.0,8.0,8,Finished,4.0,58.0
+2023,22,44,HAM,Lewis Hamilton,Mercedes,11.0,9.0,9,Finished,2.0,58.0
+2023,22,18,STR,Lance Stroll,Aston Martin,13.0,10.0,10,Finished,1.0,58.0
+2023,22,3,RIC,Daniel Ricciardo,AlphaTauri,15.0,11.0,11,Finished,0.0,58.0
+2023,22,31,OCO,Esteban Ocon,Alpine,12.0,12.0,12,Finished,0.0,58.0
+2023,22,10,GAS,Pierre Gasly,Alpine,10.0,13.0,13,Finished,0.0,58.0
+2023,22,23,ALB,Alexander Albon,Williams,14.0,14.0,14,Finished,0.0,58.0
+2023,22,27,HUL,Nico Hulkenberg,Haas F1 Team,8.0,15.0,15,Finished,0.0,58.0
+2023,22,2,SAR,Logan Sargeant,Williams,20.0,16.0,16,Finished,0.0,58.0
+2023,22,24,ZHO,Guanyu Zhou,Alfa Romeo,19.0,17.0,17,Finished,0.0,58.0
+2023,22,55,SAI,Carlos Sainz,Ferrari,16.0,18.0,18,Retired,0.0,57.0
+2023,22,77,BOT,Valtteri Bottas,Alfa Romeo,18.0,19.0,19,Lapped,0.0,57.0
+2023,22,20,MAG,Kevin Magnussen,Haas F1 Team,17.0,20.0,20,Lapped,0.0,57.0

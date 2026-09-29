@@ -1,0 +1,23 @@
+season,round,event_name,location,country,event_date,event_format,is_sprint_weekend,is_street_circuit
+2021,1,Bahrain Grand Prix,Sakhir,Bahrain,2021-03-28,conventional,0,0
+2021,2,Emilia Romagna Grand Prix,Imola,Italy,2021-04-18,conventional,0,0
+2021,3,Portuguese Grand Prix,Portimão,Portugal,2021-05-02,conventional,0,0
+2021,4,Spanish Grand Prix,Barcelona,Spain,2021-05-09,conventional,0,0
+2021,5,Monaco Grand Prix,Monte Carlo,Monaco,2021-05-23,conventional,0,0
+2021,6,Azerbaijan Grand Prix,Baku,Azerbaijan,2021-06-06,conventional,0,1
+2021,7,French Grand Prix,Le Castellet,France,2021-06-20,conventional,0,0
+2021,8,Styrian Grand Prix,Spielberg,Austria,2021-06-27,conventional,0,0
+2021,9,Austrian Grand Prix,Spielberg,Austria,2021-07-04,conventional,0,0
+2021,10,British Grand Prix,Silverstone,Great Britain,2021-07-18,sprint,1,0
+2021,11,Hungarian Grand Prix,Budapest,Hungary,2021-08-01,conventional,0,0
+2021,12,Belgian Grand Prix,Spa-Francorchamps,Belgium,2021-08-29,conventional,0,0
+2021,13,Dutch Grand Prix,Zandvoort,Netherlands,2021-09-05,conventional,0,0
+2021,14,Italian Grand Prix,Monza,Italy,2021-09-12,sprint,1,0
+2021,15,Russian Grand Prix,Sochi,Russia,2021-09-26,conventional,0,1
+2021,16,Turkish Grand Prix,Istanbul,Turkey,2021-10-10,conventional,0,0
+2021,17,United States Grand Prix,Austin,United States,2021-10-24,conventional,0,0
+2021,18,Mexico City Grand Prix,Mexico City,Mexico,2021-11-07,conventional,0,0
+2021,19,São Paulo Grand Prix,São Paulo,Brazil,2021-11-14,sprint,1,0
+2021,20,Qatar Grand Prix,Lusail,Qatar,2021-11-21,conventional,0,0
+2021,21,Saudi Arabian Grand Prix,Jeddah,Saudi Arabia,2021-12-05,conventional,0,1
+2021,22,Abu Dhabi Grand Prix,Yas Island,Abu Dhabi,2021-12-12,conventional,0,0

@@ -1,0 +1,156 @@
+{
+  "trained_at": "2026-09-04T15:18:31+00:00",
+  "train_seasons": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "test_season": 2025,
+  "n_train_rows": 1790,
+  "n_test_rows": 476,
+  "feature_columns": [
+    "quali_position",
+    "quali_gap_to_pole_pct",
+    "q2_reached",
+    "q3_reached",
+    "grid_position",
+    "grid_penalty",
+    "driver_avg_finish_last3",
+    "driver_avg_finish_last5",
+    "driver_avg_quali_last5",
+    "driver_dnf_rate_last10",
+    "driver_season_points",
+    "driver_season_rank",
+    "driver_experience",
+    "team_avg_finish_last5",
+    "team_season_points",
+    "team_season_rank",
+    "driver_circuit_avg_finish",
+    "driver_circuit_visits",
+    "is_street_circuit",
+    "is_sprint_weekend",
+    "quali_is_wet",
+    "quali_rain_fraction",
+    "quali_air_temp",
+    "quali_track_temp",
+    "quali_humidity",
+    "quali_wind_speed"
+  ],
+  "target": "finish_position",
+  "best_model": "ridge",
+  "hyperparameters": {
+    "ridge": {
+      "alpha": 10.0
+    },
+    "random_forest": {
+      "max_depth": 4,
+      "min_samples_leaf": 10
+    },
+    "xgboost": {
+      "max_depth": 2,
+      "learning_rate": 0.02,
+      "n_estimators": 150,
+      "min_child_weight": 5,
+      "reg_lambda": 10.0
+    }
+  },
+  "models": {
+    "baseline": {
+      "train": {
+        "mae": 3.411961989938513,
+        "mae_raw": 3.441028507546115,
+        "spearman": 0.6278146346257801,
+        "podium_exact_rate": 0.2,
+        "podium_overlap": 0.662962962962963,
+        "exact_position_acc": 0.1626607043040805,
+        "winner_acc": 0.5111111111111111,
+        "n_races": 90,
+        "n_rows": 1789
+      },
+      "test": {
+        "mae": 3.3403361344537816,
+        "mae_raw": 3.346638655462185,
+        "spearman": 0.6477130325814536,
+        "podium_exact_rate": 0.3333333333333333,
+        "podium_overlap": 0.75,
+        "exact_position_acc": 0.17857142857142858,
+        "winner_acc": 0.6666666666666666,
+        "n_races": 24,
+        "n_rows": 476
+      }
+    },
+    "ridge": {
+      "train": {
+        "mae": 3.1514812744550027,
+        "mae_raw": 3.077768063754799,
+        "spearman": 0.6839079725457434,
+        "podium_exact_rate": 0.28888888888888886,
+        "podium_overlap": 0.674074074074074,
+        "exact_position_acc": 0.15539407490218,
+        "winner_acc": 0.5555555555555556,
+        "n_races": 90,
+        "n_rows": 1789
+      },
+      "test": {
+        "mae": 3.1848739495798317,
+        "mae_raw": 3.1667949906947115,
+        "spearman": 0.6667293233082706,
+        "podium_exact_rate": 0.4166666666666667,
+        "podium_overlap": 0.7777777777777778,
+        "exact_position_acc": 0.16596638655462184,
+        "winner_acc": 0.5416666666666666,
+        "n_races": 24,
+        "n_rows": 476
+      }
+    },
+    "random_forest": {
+      "train": {
+        "mae": 3.0061486864169926,
+        "mae_raw": 3.0031795090116096,
+        "spearman": 0.7076658967680639,
+        "podium_exact_rate": 0.26666666666666666,
+        "podium_overlap": 0.6925925925925925,
+        "exact_position_acc": 0.16489659027389603,
+        "winner_acc": 0.6111111111111112,
+        "n_races": 90,
+        "n_rows": 1789
+      },
+      "test": {
+        "mae": 3.2100840336134455,
+        "mae_raw": 3.1941453569850795,
+        "spearman": 0.6646825396825397,
+        "podium_exact_rate": 0.3333333333333333,
+        "podium_overlap": 0.75,
+        "exact_position_acc": 0.18487394957983194,
+        "winner_acc": 0.5833333333333334,
+        "n_races": 24,
+        "n_rows": 476
+      }
+    },
+    "xgboost": {
+      "train": {
+        "mae": 3.0955841252096143,
+        "mae_raw": 3.121899447406451,
+        "spearman": 0.6952002555408128,
+        "podium_exact_rate": 0.25555555555555554,
+        "podium_overlap": 0.674074074074074,
+        "exact_position_acc": 0.15148127445500278,
+        "winner_acc": 0.5444444444444444,
+        "n_races": 90,
+        "n_rows": 1789
+      },
+      "test": {
+        "mae": 3.2521008403361344,
+        "mae_raw": 3.261806381349804,
+        "spearman": 0.6653613199665831,
+        "podium_exact_rate": 0.20833333333333334,
+        "podium_overlap": 0.7083333333333334,
+        "exact_position_acc": 0.15756302521008403,
+        "winner_acc": 0.5,
+        "n_races": 24,
+        "n_rows": 476
+      }
+    }
+  }
+}

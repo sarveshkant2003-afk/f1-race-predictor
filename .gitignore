@@ -1,0 +1,12 @@
+venv/
+data/cache/
+data/collect.log
+__pycache__/
+*.pyc
+.streamlit/
+.DS_Store
+data/streamlit.log
+
+# private notes
+CLAUDE*.md
+PROJECT.md

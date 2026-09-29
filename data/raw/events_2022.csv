@@ -1,0 +1,23 @@
+season,round,event_name,location,country,event_date,event_format,is_sprint_weekend,is_street_circuit
+2022,1,Bahrain Grand Prix,Sakhir,Bahrain,2022-03-20,conventional,0,0
+2022,2,Saudi Arabian Grand Prix,Jeddah,Saudi Arabia,2022-03-27,conventional,0,1
+2022,3,Australian Grand Prix,Melbourne,Australia,2022-04-10,conventional,0,1
+2022,4,Emilia Romagna Grand Prix,Imola,Italy,2022-04-24,sprint,1,0
+2022,5,Miami Grand Prix,Miami,United States,2022-05-08,conventional,0,1
+2022,6,Spanish Grand Prix,Barcelona,Spain,2022-05-22,conventional,0,0
+2022,7,Monaco Grand Prix,Monaco,Monaco,2022-05-29,conventional,0,1
+2022,8,Azerbaijan Grand Prix,Baku,Azerbaijan,2022-06-12,conventional,0,1
+2022,9,Canadian Grand Prix,Montréal,Canada,2022-06-19,conventional,0,1
+2022,10,British Grand Prix,Silverstone,Great Britain,2022-07-03,conventional,0,0
+2022,11,Austrian Grand Prix,Spielberg,Austria,2022-07-10,sprint,1,0
+2022,12,French Grand Prix,Le Castellet,France,2022-07-24,conventional,0,0
+2022,13,Hungarian Grand Prix,Budapest,Hungary,2022-07-31,conventional,0,0
+2022,14,Belgian Grand Prix,Spa-Francorchamps,Belgium,2022-08-28,conventional,0,0
+2022,15,Dutch Grand Prix,Zandvoort,Netherlands,2022-09-04,conventional,0,0
+2022,16,Italian Grand Prix,Monza,Italy,2022-09-11,conventional,0,0
+2022,17,Singapore Grand Prix,Marina Bay,Singapore,2022-10-02,conventional,0,0
+2022,18,Japanese Grand Prix,Suzuka,Japan,2022-10-09,conventional,0,0
+2022,19,United States Grand Prix,Austin,United States,2022-10-23,conventional,0,0
+2022,20,Mexico City Grand Prix,Mexico City,Mexico,2022-10-30,conventional,0,0
+2022,21,São Paulo Grand Prix,São Paulo,Brazil,2022-11-13,sprint,1,0
+2022,22,Abu Dhabi Grand Prix,Yas Island,Abu Dhabi,2022-11-20,conventional,0,0
