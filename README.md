@@ -6,7 +6,8 @@ history, qualifying-session weather), using historical data pulled from the
 [FastF1](https://docs.fastf1.dev/) API, four models compared on a strict
 chronological split, and a Streamlit app to explore predictions.
 
-**Demo:** run `streamlit run app.py` locally (setup below); a hosted link is coming.
+**Live app:** [f1-race-predictor-sarvesh.streamlit.app](https://f1-race-predictor-sarvesh.streamlit.app/)
+(no install needed; if it has been idle, it takes about 30 seconds to wake up)
 
 ## Setup (macOS / Linux)
 

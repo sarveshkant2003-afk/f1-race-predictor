@@ -53,7 +53,7 @@ FEATURE_LABELS = {
     "quali_wind_speed": "Qualifying wind speed",
 }
 
-st.set_page_config(page_title="F1 Race Predictor", page_icon="🏎️", layout="wide")
+st.set_page_config(page_title="F1 Race Predictor", layout="wide")
 
 
 # --------------------------------------------------------------------------- #
@@ -194,7 +194,7 @@ current_year = date.today().year
 seasons = sorted(set(collected_seasons) | {current_year}, reverse=True)
 
 with st.sidebar:
-    st.title("🏎️ F1 Race Predictor")
+    st.title("F1 Race Predictor")
     model_names = [m for m in ("xgboost", "random_forest", "ridge") if (MODELS_DIR / f"{m}.pkl").exists()]
     best = metrics_report["best_model"]
     model_name = st.radio(
